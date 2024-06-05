@@ -4,16 +4,6 @@ from multiprocessing import Pool
 import pandas as pd
 
 
-import subprocess
-import json
-from multiprocessing import Pool
-import pandas as pd
-
-
-
-
-import subprocess
-import json
 
 def get_lighthouse_data(url, timeout=300):  # 5-minute timeout
     url = "https://www.{url}".format(url=url)
