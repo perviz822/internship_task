@@ -1,3 +1,6 @@
-/Users/parvizpirizade/Documents/internship_task/.venv/
+.venv/
 lighthouse.csv
 twitter_keys.json
+chrome_setup.py
+twitter_collector.py
+__pycache__
