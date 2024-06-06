@@ -2,44 +2,73 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
+from multiprocessing import Pool
+from tqdm import tqdm
+import random
+import time
+from fake_useragent import UserAgent
+
+def random_sleep():
+    time.sleep(random.uniform(1, 5))
+
+def get_random_user_agent():
+    ua = UserAgent()
+    return ua.random
+
 def extract_contact_info(url):
-    # Method 1: Parsing HTML
-    url = "https://www.{url}".format(url=url)
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content, 'html.parser')
-    contact_info = set()  # Using a set to avoid duplicates
+    original_url = url
+    url = f"https://www.{url}"
+    email_set = set()
+    phone_set = set()  # Using a set to avoid duplicates
 
-    # Extract contact info from HTML elements
-    for element in soup.find_all(['p', 'div', 'span']):
-        text = element.get_text().strip() 
-        # Example pattern for email address extraction
-        email_pattern = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
-        emails = re.findall(email_pattern, text)
-        for email in emails:
-            if ' ' not in email:  # Check if email contains no space
-                contact_info.add(email)
-        
-        phone_pattern = r'[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\.\0-9]*(?=[^0-9])'
-        french_phone_numbers = re.findall(phone_pattern, text)
-        
-        # Clean and filter phone numbers
-        for number in french_phone_numbers:
-            cleaned_number = re.sub(r'\s+|\n', '', number)  # Remove spaces and newlines
-            if len(cleaned_number) >= 10:  # Assuming a minimum length of 10 for valid numbers
-                contact_info.add(cleaned_number)
+    headers = {
+        'User-Agent': get_random_user_agent(),
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive'
+    }
+
+    # Implement retries
+    for attempt in range(3):
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            response.raise_for_status()  # Raise HTTPError for bad responses (4xx and 5xx)
+            break
+        except requests.RequestException as e:
+            print(f"Request error for {original_url}, attempt {attempt + 1}: {e}")
+            random_sleep()
+    else:
+        return (original_url, {'emails': email_set, 'phones': phone_set})
+
+    try:
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # Extract contact info from HTML elements
+        for element in soup.find_all(['p', 'div', 'span']):
+            text = element.get_text().strip()
+            # Example pattern for email address extraction
+            email_pattern = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+            emails = re.findall(email_pattern, text)
+            for email in emails:
+                if ' ' not in email:  # Check if email contains no space
+                    email_set.add(email)
+
+            phone_pattern = r'[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\.\0-9]*(?=[^0-9])'
+            phone_numbers = re.findall(phone_pattern, text)
+
+            # Clean and filter phone numbers
+            for number in phone_numbers:
+                cleaned_number = re.sub(r'\s+|\n', '', number)  # Remove spaces and newlines
+                if len(cleaned_number) >= 10 and (len(cleaned_number<20)):  # Assuming a minimum length of 10 for valid numbers
+                    phone_set.add(cleaned_number)
+    except Exception as e:
+        print(f"Parsing error for {original_url}: {e}")
+
+    # Add random sleep after processing each URL
+    random_sleep()
+    
+    return (original_url, {'emails': email_set, 'phones': phone_set})
+
+print(extract_contact_info('boutiquephotographique.com'))
 
 
-    return contact_info
-
-
-
-url= '3rdragon.ca'
-contact_info = extract_contact_info(url)
-print(contact_info)
-
-#df =  pd.read_csv('wtb_internship_task')
-
-#df['security_metrics']=df['Domain name'].apply(extract_contact_info)
-
-
-   

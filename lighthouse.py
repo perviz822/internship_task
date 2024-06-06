@@ -5,7 +5,9 @@ import pandas as pd
 
 
 
+
 def get_lighthouse_data(url, timeout=300):  # 5-minute timeout
+    global counter
     url = "https://www.{url}".format(url=url)
     reports = {'mobile': {}, 'desktop': {}}
     key_metrics = ['performance', 'accessibility', 'best-practices', 'seo', 'pwa']
@@ -39,8 +41,9 @@ def get_lighthouse_data(url, timeout=300):  # 5-minute timeout
         except Exception as e:
             return (url, f"Unexpected error: {type(e).__name__} - {e}")
         
-    print('done')
-    return  reports
+     # Increase the counter
+    print(url  ,'processed')
+    return  (url,reports)
 
 
 
@@ -50,11 +53,14 @@ def get_lighthouse_data(url, timeout=300):  # 5-minute timeout
 def main():
     df = pd.read_csv('wtb-internship-test.csv')
     domain_names = df['Domain name'].tolist()
+    print(len(domain_names))
+   
     with Pool() as pool:
-        results = pool.map(get_lighthouse_data, domain_names)
+     results = pool.map(get_lighthouse_data, domain_names)
 
-    lighthouse_df = pd.DataFrame(results, columns=['url', 'lighthouse_metrics'])
-    lighthouse_df.to_csv('lighthouse.csv', index=False)
+    lighthouse_df = pd.DataFrame(results, columns=['Domain name', 'lighthouse_metrics'])
+   
+    lighthouse_df.to_csv('lighthouse.csv')
 
 if __name__ == '__main__':
     main()
