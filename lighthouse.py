@@ -6,6 +6,7 @@ import pandas as pd
 
 
 
+
 def get_lighthouse_data(url, timeout=300):  # 5-minute timeout
     global counter
     url = "https://www.{url}".format(url=url)
@@ -51,10 +52,11 @@ def get_lighthouse_data(url, timeout=300):  # 5-minute timeout
 
 
 def main():
-    df = pd.read_csv('wtb-internship-test.csv')
-    domain_names = df['Domain name'].tolist()
+    df = pd.read_csv('final4.csv')
+    filtered = df[df['lighthouse_metrics'].str.startswith('Lighthouse')]
+    domain_names = filtered['Domain name'].tolist()
     print(len(domain_names))
-   
+    
     with Pool() as pool:
      results = pool.map(get_lighthouse_data, domain_names)
 

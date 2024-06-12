@@ -4,3 +4,4 @@ twitter_keys.json
 chrome_setup.py
 twitter_collector.py
 __pycache__
+api_key.py

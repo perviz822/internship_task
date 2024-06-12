@@ -1,0 +1,4355 @@
+[
+    {
+        "Domain name": "chateau-giscours.fr",
+        "Request Count": 106,
+        "Failure Count": 0.0,
+        "Requests/s": 1.81,
+        "Average Response Time": 32065.53,
+        "Average Content Size": 142029.0
+    },
+    {
+        "Domain name": "raimo.fr",
+        "Request Count": 1243,
+        "Failure Count": 419.0,
+        "Requests/s": 21.05,
+        "Average Response Time": 1468.79,
+        "Average Content Size": 386111.5,
+        "Failure/Request": 33.71
+    },
+    {
+        "Domain name": "champagne-voirin-jumel.com",
+        "Request Count": 1745,
+        "Failure Count": 1246.0,
+        "Requests/s": 29.49,
+        "Average Response Time": 235.06,
+        "Average Content Size": 34913.21,
+        "Failure/Request": 71.4
+    },
+    {
+        "Domain name": "chateaudepoisses.com",
+        "Request Count": 0,
+        "Failure Count": 0.0,
+        "Requests/s": 0.0,
+        "Average Response Time": 0.0,
+        "Average Content Size": 0.0
+    },
+    {
+        "Domain name": "parenchere.com",
+        "Request Count": 86,
+        "Failure Count": 1.0,
+        "Requests/s": 1.48,
+        "Average Response Time": 32364.94,
+        "Average Content Size": 91114.07,
+        "Failure/Request": 1.16
+    },
+    {
+        "Domain name": "pessac-leognan.com",
+        "Request Count": 51,
+        "Failure Count": 0.0,
+        "Requests/s": 0.86,
+        "Average Response Time": 39627.53,
+        "Average Content Size": 149849.0
+    },
+    {
+        "Domain name": "newtree.com",
+        "Request Count": 1752,
+        "Failure Count": 0.0,
+        "Requests/s": 29.62,
+        "Average Response Time": 239.09,
+        "Average Content Size": 63249.0
+    },
+    {
+        "Domain name": "julietteavril.com",
+        "Request Count": 570,
+        "Failure Count": 570.0,
+        "Requests/s": 9.79,
+        "Average Response Time": 5560.2,
+        "Average Content Size": 2304.06,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "cafegraffiti.net",
+        "Request Count": 76,
+        "Failure Count": 6.0,
+        "Requests/s": 1.32,
+        "Average Response Time": 25941.71,
+        "Average Content Size": 334510.66,
+        "Failure/Request": 7.89
+    },
+    {
+        "Domain name": "edwoodcafe.fr",
+        "Request Count": 96,
+        "Failure Count": 0.0,
+        "Requests/s": 1.65,
+        "Average Response Time": 30367.09,
+        "Average Content Size": 147276.0
+    },
+    {
+        "Domain name": "foudici.com",
+        "Request Count": 1563,
+        "Failure Count": 0.0,
+        "Requests/s": 26.44,
+        "Average Response Time": 546.53,
+        "Average Content Size": 45032.0
+    },
+    {
+        "Domain name": "rhumeriedechamarel.com",
+        "Request Count": 1733,
+        "Failure Count": 0.0,
+        "Requests/s": 29.27,
+        "Average Response Time": 258.47,
+        "Average Content Size": 272331.0
+    },
+    {
+        "Domain name": "chocomotive.ca",
+        "Request Count": 1217,
+        "Failure Count": 1216.0,
+        "Requests/s": 20.52,
+        "Average Response Time": 1487.01,
+        "Average Content Size": 2084.69,
+        "Failure/Request": 99.92
+    },
+    {
+        "Domain name": "comteroger.com",
+        "Request Count": 1234,
+        "Failure Count": 742.0,
+        "Requests/s": 20.8,
+        "Average Response Time": 1515.09,
+        "Average Content Size": 62021.63,
+        "Failure/Request": 60.13
+    },
+    {
+        "Domain name": "beresford.fr",
+        "Request Count": 1788,
+        "Failure Count": 1788.0,
+        "Requests/s": 30.17,
+        "Average Response Time": 192.3,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "diamantblanc.fr",
+        "Request Count": 1553,
+        "Failure Count": 1166.0,
+        "Requests/s": 26.31,
+        "Average Response Time": 681.83,
+        "Average Content Size": 24604.01,
+        "Failure/Request": 75.08
+    },
+    {
+        "Domain name": "lacigale.com",
+        "Request Count": 1724,
+        "Failure Count": 1724.0,
+        "Requests/s": 29.08,
+        "Average Response Time": 230.62,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "restaurantletournant.com",
+        "Request Count": 1760,
+        "Failure Count": 18.0,
+        "Requests/s": 29.66,
+        "Average Response Time": 201.93,
+        "Average Content Size": 290914.43,
+        "Failure/Request": 1.02
+    },
+    {
+        "Domain name": "16cafe.com",
+        "Request Count": 815,
+        "Failure Count": 815.0,
+        "Requests/s": 13.74,
+        "Average Response Time": 3487.88,
+        "Average Content Size": 2356.07,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "legrandchene.eu",
+        "Request Count": 1755,
+        "Failure Count": 712.0,
+        "Requests/s": 29.68,
+        "Average Response Time": 209.58,
+        "Average Content Size": 445245.27,
+        "Failure/Request": 40.57
+    },
+    {
+        "Domain name": "vacances-chataigneraie.com",
+        "Request Count": 401,
+        "Failure Count": 0.0,
+        "Requests/s": 6.77,
+        "Average Response Time": 9687.12,
+        "Average Content Size": 150232.0
+    },
+    {
+        "Domain name": "equitours.se",
+        "Request Count": 454,
+        "Failure Count": 0.0,
+        "Requests/s": 7.69,
+        "Average Response Time": 8475.04,
+        "Average Content Size": 147445.0
+    },
+    {
+        "Domain name": "sushizen.ch",
+        "Request Count": 1796,
+        "Failure Count": 43.0,
+        "Requests/s": 30.4,
+        "Average Response Time": 157.49,
+        "Average Content Size": 117860.94,
+        "Failure/Request": 2.39
+    },
+    {
+        "Domain name": "chateaudesaintmartin.com",
+        "Request Count": 1809,
+        "Failure Count": 0.0,
+        "Requests/s": 30.54,
+        "Average Response Time": 128.9,
+        "Average Content Size": 11463.0
+    },
+    {
+        "Domain name": "passy-mont-blanc.com",
+        "Request Count": 1151,
+        "Failure Count": 1082.0,
+        "Requests/s": 19.47,
+        "Average Response Time": 1725.41,
+        "Average Content Size": 6636.64,
+        "Failure/Request": 94.01
+    },
+    {
+        "Domain name": "mansouria.fr",
+        "Request Count": 81,
+        "Failure Count": 0.0,
+        "Requests/s": 1.38,
+        "Average Response Time": 38827.3,
+        "Average Content Size": 93363.0
+    },
+    {
+        "Domain name": "sensuniques.fr",
+        "Request Count": 1524,
+        "Failure Count": 1446.0,
+        "Requests/s": 25.72,
+        "Average Response Time": 700.42,
+        "Average Content Size": 63414.82,
+        "Failure/Request": 94.88
+    },
+    {
+        "Domain name": "chateaudesdemoiselles.com",
+        "Request Count": 1547,
+        "Failure Count": 63.0,
+        "Requests/s": 26.13,
+        "Average Response Time": 600.62,
+        "Average Content Size": 21740.07,
+        "Failure/Request": 4.07
+    },
+    {
+        "Domain name": "marcheauxvins.com",
+        "Request Count": 1830,
+        "Failure Count": 1830.0,
+        "Requests/s": 30.87,
+        "Average Response Time": 109.64,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "brusselskitchen.com",
+        "Request Count": 1087,
+        "Failure Count": 1033.0,
+        "Requests/s": 18.37,
+        "Average Response Time": 2025.72,
+        "Average Content Size": 5148.53,
+        "Failure/Request": 95.03
+    },
+    {
+        "Domain name": "jacksbarmeribel.com",
+        "Request Count": 0,
+        "Failure Count": 0.0,
+        "Requests/s": 0.0,
+        "Average Response Time": 0.0,
+        "Average Content Size": 0.0
+    },
+    {
+        "Domain name": "casino-gujanmestras.fr",
+        "Request Count": 1150,
+        "Failure Count": 960.0,
+        "Requests/s": 19.39,
+        "Average Response Time": 1787.09,
+        "Average Content Size": 21878.3,
+        "Failure/Request": 83.48
+    },
+    {
+        "Domain name": "lescocottesevents.com",
+        "Request Count": 695,
+        "Failure Count": 31.0,
+        "Requests/s": 11.71,
+        "Average Response Time": 4863.07,
+        "Average Content Size": 60283.56,
+        "Failure/Request": 4.46
+    },
+    {
+        "Domain name": "argenson.com",
+        "Request Count": 1647,
+        "Failure Count": 1435.0,
+        "Requests/s": 27.76,
+        "Average Response Time": 318.93,
+        "Average Content Size": 10566.46,
+        "Failure/Request": 87.13
+    },
+    {
+        "Domain name": "massamier-la-mignarde.com",
+        "Request Count": 1737,
+        "Failure Count": 1238.0,
+        "Requests/s": 29.41,
+        "Average Response Time": 278.68,
+        "Average Content Size": 19931.32,
+        "Failure/Request": 71.27
+    },
+    {
+        "Domain name": "hotel-leplacedarmes.com",
+        "Request Count": 1560,
+        "Failure Count": 0.0,
+        "Requests/s": 26.32,
+        "Average Response Time": 581.02,
+        "Average Content Size": 65240.0
+    },
+    {
+        "Domain name": "hotelaigledesneiges.com",
+        "Request Count": 1537,
+        "Failure Count": 0.0,
+        "Requests/s": 25.95,
+        "Average Response Time": 701.28,
+        "Average Content Size": 63017.0
+    },
+    {
+        "Domain name": "terre-vaudoise.ch",
+        "Request Count": 1180,
+        "Failure Count": 1020.0,
+        "Requests/s": 19.91,
+        "Average Response Time": 1638.72,
+        "Average Content Size": 9487.36,
+        "Failure/Request": 86.44
+    },
+    {
+        "Domain name": "domaine-lafage.com",
+        "Request Count": 1720,
+        "Failure Count": 0.0,
+        "Requests/s": 29.05,
+        "Average Response Time": 269.88,
+        "Average Content Size": 589621.0
+    },
+    {
+        "Domain name": "leccs.com",
+        "Request Count": 1286,
+        "Failure Count": 986.0,
+        "Requests/s": 21.68,
+        "Average Response Time": 1309.35,
+        "Average Content Size": 17023.22,
+        "Failure/Request": 76.67
+    },
+    {
+        "Domain name": "safrandugatinais.fr",
+        "Request Count": 1423,
+        "Failure Count": 1423.0,
+        "Requests/s": 24.0,
+        "Average Response Time": 909.14,
+        "Average Content Size": 403.91,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "keisukematsushima.com",
+        "Request Count": 51,
+        "Failure Count": 41.0,
+        "Requests/s": 0.86,
+        "Average Response Time": 34973.14,
+        "Average Content Size": 41340.29,
+        "Failure/Request": 80.39
+    },
+    {
+        "Domain name": "rougemaple.com",
+        "Request Count": 1694,
+        "Failure Count": 0.0,
+        "Requests/s": 28.64,
+        "Average Response Time": 333.71,
+        "Average Content Size": 350753.0
+    },
+    {
+        "Domain name": "auvieuxsaintmartin.be",
+        "Request Count": 344,
+        "Failure Count": 0.0,
+        "Requests/s": 5.82,
+        "Average Response Time": 11020.67,
+        "Average Content Size": 168710.0
+    },
+    {
+        "Domain name": "cavedevouvray.com",
+        "Request Count": 1735,
+        "Failure Count": 0.0,
+        "Requests/s": 29.29,
+        "Average Response Time": 262.15,
+        "Average Content Size": 377105.0
+    },
+    {
+        "Domain name": "chateaucaillou.com",
+        "Request Count": 41,
+        "Failure Count": 41.0,
+        "Requests/s": 0.69,
+        "Average Response Time": 32582.87,
+        "Average Content Size": 423.02,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "chateauhautgoujon.com",
+        "Request Count": 1541,
+        "Failure Count": 1421.0,
+        "Requests/s": 26.02,
+        "Average Response Time": 589.83,
+        "Average Content Size": 22768.76,
+        "Failure/Request": 92.21
+    },
+    {
+        "Domain name": "morelchocolatier.com",
+        "Request Count": 1782,
+        "Failure Count": 0.0,
+        "Requests/s": 30.04,
+        "Average Response Time": 191.74,
+        "Average Content Size": 137325.77
+    },
+    {
+        "Domain name": "tendacayou.com",
+        "Request Count": 418,
+        "Failure Count": 69.0,
+        "Requests/s": 7.12,
+        "Average Response Time": 9227.18,
+        "Average Content Size": 96828.3,
+        "Failure/Request": 16.51
+    },
+    {
+        "Domain name": "croix-duplex.ch",
+        "Request Count": 1117,
+        "Failure Count": 1057.0,
+        "Requests/s": 18.83,
+        "Average Response Time": 1803.36,
+        "Average Content Size": 4568.1,
+        "Failure/Request": 94.63
+    },
+    {
+        "Domain name": "deco-americaine.fr",
+        "Request Count": 1600,
+        "Failure Count": 49.0,
+        "Requests/s": 27.01,
+        "Average Response Time": 479.57,
+        "Average Content Size": 572740.68,
+        "Failure/Request": 3.06
+    },
+    {
+        "Domain name": "cave-joly.ch",
+        "Request Count": 1734,
+        "Failure Count": 0.0,
+        "Requests/s": 29.3,
+        "Average Response Time": 252.79,
+        "Average Content Size": 131183.0
+    },
+    {
+        "Domain name": "cadet-de-gascogne.com",
+        "Request Count": 341,
+        "Failure Count": 320.0,
+        "Requests/s": 5.86,
+        "Average Response Time": 8462.26,
+        "Average Content Size": 3084.58,
+        "Failure/Request": 93.84
+    },
+    {
+        "Domain name": "massanois.com",
+        "Request Count": 1814,
+        "Failure Count": 0.0,
+        "Requests/s": 30.68,
+        "Average Response Time": 99.59,
+        "Average Content Size": 71046.0
+    },
+    {
+        "Domain name": "cru-hopital.ch",
+        "Request Count": 1196,
+        "Failure Count": 950.0,
+        "Requests/s": 20.16,
+        "Average Response Time": 1651.99,
+        "Average Content Size": 25863.38,
+        "Failure/Request": 79.43
+    },
+    {
+        "Domain name": "jesuisunenfantterrible.com",
+        "Request Count": 1529,
+        "Failure Count": 0.0,
+        "Requests/s": 25.84,
+        "Average Response Time": 653.11,
+        "Average Content Size": 238742.0
+    },
+    {
+        "Domain name": "lelagon.nc",
+        "Request Count": 1472,
+        "Failure Count": 0.0,
+        "Requests/s": 24.89,
+        "Average Response Time": 775.59,
+        "Average Content Size": 51064.0
+    },
+    {
+        "Domain name": "restauration-nouvelle.be",
+        "Request Count": 1251,
+        "Failure Count": 0.0,
+        "Requests/s": 21.09,
+        "Average Response Time": 1411.24,
+        "Average Content Size": 41561.0
+    },
+    {
+        "Domain name": "lucana.be",
+        "Request Count": 1143,
+        "Failure Count": 989.0,
+        "Requests/s": 19.26,
+        "Average Response Time": 1807.13,
+        "Average Content Size": 30764.18,
+        "Failure/Request": 86.53
+    },
+    {
+        "Domain name": "cookandbook.com",
+        "Request Count": 1230,
+        "Failure Count": 954.0,
+        "Requests/s": 20.81,
+        "Average Response Time": 1442.06,
+        "Average Content Size": 65415.91,
+        "Failure/Request": 77.56
+    },
+    {
+        "Domain name": "letirebouchon.fr",
+        "Request Count": 1544,
+        "Failure Count": 50.0,
+        "Requests/s": 26.11,
+        "Average Response Time": 613.12,
+        "Average Content Size": 52839.61,
+        "Failure/Request": 3.24
+    },
+    {
+        "Domain name": "lesperrieres.ch",
+        "Request Count": 1704,
+        "Failure Count": 1702.0,
+        "Requests/s": 28.72,
+        "Average Response Time": 288.42,
+        "Average Content Size": 366.69,
+        "Failure/Request": 99.88
+    },
+    {
+        "Domain name": "restaurantmaestro.com",
+        "Request Count": 1486,
+        "Failure Count": 47.0,
+        "Requests/s": 25.03,
+        "Average Response Time": 799.76,
+        "Average Content Size": 45286.86,
+        "Failure/Request": 3.16
+    },
+    {
+        "Domain name": "lembertfoiesgras.com",
+        "Request Count": 201,
+        "Failure Count": 0.0,
+        "Requests/s": 3.41,
+        "Average Response Time": 19739.15,
+        "Average Content Size": 193182.48
+    },
+    {
+        "Domain name": "camping-oliviers.com",
+        "Request Count": 1794,
+        "Failure Count": 1794.0,
+        "Requests/s": 30.27,
+        "Average Response Time": 167.93,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "chateaudevilla.ch",
+        "Request Count": 1158,
+        "Failure Count": 1086.0,
+        "Requests/s": 19.57,
+        "Average Response Time": 1568.0,
+        "Average Content Size": 11705.05,
+        "Failure/Request": 93.78
+    },
+    {
+        "Domain name": "hdefrance.com",
+        "Request Count": 1013,
+        "Failure Count": 1007.0,
+        "Requests/s": 17.12,
+        "Average Response Time": 2006.52,
+        "Average Content Size": 595.4,
+        "Failure/Request": 99.41
+    },
+    {
+        "Domain name": "aubergesaint-gabriel.com",
+        "Request Count": 1752,
+        "Failure Count": 0.0,
+        "Requests/s": 29.61,
+        "Average Response Time": 263.98,
+        "Average Content Size": 125369.0
+    },
+    {
+        "Domain name": "boco.fr",
+        "Request Count": 33,
+        "Failure Count": 23.0,
+        "Requests/s": 0.72,
+        "Average Response Time": 9158.81,
+        "Average Content Size": 434508.52,
+        "Failure/Request": 69.7
+    },
+    {
+        "Domain name": "chateaubromont.com",
+        "Request Count": 77,
+        "Failure Count": 0.0,
+        "Requests/s": 1.31,
+        "Average Response Time": 35344.42,
+        "Average Content Size": 119029.0
+    },
+    {
+        "Domain name": "le-sixiemesens.fr",
+        "Request Count": 1810,
+        "Failure Count": 0.0,
+        "Requests/s": 30.49,
+        "Average Response Time": 136.99,
+        "Average Content Size": 160147.0
+    },
+    {
+        "Domain name": "petit-jardin.com",
+        "Request Count": 55,
+        "Failure Count": 0.0,
+        "Requests/s": 0.93,
+        "Average Response Time": 32866.35,
+        "Average Content Size": 167045.0
+    },
+    {
+        "Domain name": "aeroporthotel.com",
+        "Request Count": 1749,
+        "Failure Count": 1749.0,
+        "Requests/s": 29.55,
+        "Average Response Time": 166.78,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lecoupdegrace.ca",
+        "Request Count": 1707,
+        "Failure Count": 0.0,
+        "Requests/s": 28.86,
+        "Average Response Time": 325.36,
+        "Average Content Size": 153414.0
+    },
+    {
+        "Domain name": "cantinevagabonde.fr",
+        "Request Count": 1764,
+        "Failure Count": 1764.0,
+        "Requests/s": 29.81,
+        "Average Response Time": 188.01,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "labete.ca",
+        "Request Count": 1691,
+        "Failure Count": 1634.0,
+        "Requests/s": 28.53,
+        "Average Response Time": 378.62,
+        "Average Content Size": 2198.28,
+        "Failure/Request": 96.63
+    },
+    {
+        "Domain name": "cavedegeneve.ch",
+        "Request Count": 1786,
+        "Failure Count": 1786.0,
+        "Requests/s": 30.15,
+        "Average Response Time": 139.99,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "moko.fi",
+        "Request Count": 1713,
+        "Failure Count": 0.0,
+        "Requests/s": 28.92,
+        "Average Response Time": 258.73,
+        "Average Content Size": 69361.0
+    },
+    {
+        "Domain name": "restaurantcabanoix.com",
+        "Request Count": 1761,
+        "Failure Count": 1761.0,
+        "Requests/s": 29.71,
+        "Average Response Time": 196.88,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lafineheure.fr",
+        "Request Count": 1654,
+        "Failure Count": 0.0,
+        "Requests/s": 27.9,
+        "Average Response Time": 388.21,
+        "Average Content Size": 414970.0
+    },
+    {
+        "Domain name": "grill.se",
+        "Request Count": 1295,
+        "Failure Count": 623.0,
+        "Requests/s": 21.86,
+        "Average Response Time": 1256.6,
+        "Average Content Size": 50665.75,
+        "Failure/Request": 48.11
+    },
+    {
+        "Domain name": "lecigalon.com",
+        "Request Count": 283,
+        "Failure Count": 80.0,
+        "Requests/s": 4.88,
+        "Average Response Time": 3873.36,
+        "Average Content Size": 97556.65,
+        "Failure/Request": 28.27
+    },
+    {
+        "Domain name": "rivercafe.fr",
+        "Request Count": 1681,
+        "Failure Count": 24.0,
+        "Requests/s": 28.35,
+        "Average Response Time": 387.65,
+        "Average Content Size": 66899.03,
+        "Failure/Request": 1.43
+    },
+    {
+        "Domain name": "vinealove.com",
+        "Request Count": 400,
+        "Failure Count": 3.0,
+        "Requests/s": 6.75,
+        "Average Response Time": 10011.44,
+        "Average Content Size": 103825.48,
+        "Failure/Request": 0.75
+    },
+    {
+        "Domain name": "vivacook.be",
+        "Request Count": 1743,
+        "Failure Count": 1705.0,
+        "Requests/s": 29.4,
+        "Average Response Time": 241.36,
+        "Average Content Size": 6482.81,
+        "Failure/Request": 97.82
+    },
+    {
+        "Domain name": "uchitomi.ch",
+        "Request Count": 1737,
+        "Failure Count": 0.0,
+        "Requests/s": 29.31,
+        "Average Response Time": 229.36,
+        "Average Content Size": 130849.0
+    },
+    {
+        "Domain name": "jshs.fr",
+        "Request Count": 1819,
+        "Failure Count": 1819.0,
+        "Requests/s": 30.69,
+        "Average Response Time": 110.42,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "caffuccino.com",
+        "Request Count": 1595,
+        "Failure Count": 0.0,
+        "Requests/s": 26.97,
+        "Average Response Time": 496.63,
+        "Average Content Size": 64695.0
+    },
+    {
+        "Domain name": "molards.ch",
+        "Request Count": 1181,
+        "Failure Count": 694.0,
+        "Requests/s": 19.92,
+        "Average Response Time": 1672.78,
+        "Average Content Size": 39830.48,
+        "Failure/Request": 58.76
+    },
+    {
+        "Domain name": "tiffanyhotel.ch",
+        "Request Count": 1691,
+        "Failure Count": 0.0,
+        "Requests/s": 28.52,
+        "Average Response Time": 305.27,
+        "Average Content Size": 215450.0
+    },
+    {
+        "Domain name": "lejardinenville.fr",
+        "Request Count": 1823,
+        "Failure Count": 1823.0,
+        "Requests/s": 30.8,
+        "Average Response Time": 122.8,
+        "Average Content Size": 199.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "beauxvillages.be",
+        "Request Count": 44,
+        "Failure Count": 3.0,
+        "Requests/s": 0.78,
+        "Average Response Time": 28113.41,
+        "Average Content Size": 93680.32,
+        "Failure/Request": 6.82
+    },
+    {
+        "Domain name": "secondcup.com",
+        "Request Count": 1007,
+        "Failure Count": 0.0,
+        "Requests/s": 17.0,
+        "Average Response Time": 2501.73,
+        "Average Content Size": 218828.0
+    },
+    {
+        "Domain name": "bienbar.no",
+        "Request Count": 1625,
+        "Failure Count": 1.0,
+        "Requests/s": 27.5,
+        "Average Response Time": 458.21,
+        "Average Content Size": 83344.79,
+        "Failure/Request": 0.06
+    },
+    {
+        "Domain name": "restaurantazimut.com",
+        "Request Count": 1302,
+        "Failure Count": 1259.0,
+        "Requests/s": 21.92,
+        "Average Response Time": 1372.06,
+        "Average Content Size": 9261.8,
+        "Failure/Request": 96.7
+    },
+    {
+        "Domain name": "marycherry.fr",
+        "Request Count": 1403,
+        "Failure Count": 0.0,
+        "Requests/s": 23.69,
+        "Average Response Time": 1018.83,
+        "Average Content Size": 333230.0
+    },
+    {
+        "Domain name": "camarine.com",
+        "Request Count": 827,
+        "Failure Count": 827.0,
+        "Requests/s": 13.94,
+        "Average Response Time": 2172.12,
+        "Average Content Size": 535.12,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "leysin.ch",
+        "Request Count": 1741,
+        "Failure Count": 1.0,
+        "Requests/s": 29.4,
+        "Average Response Time": 224.02,
+        "Average Content Size": 148570.61,
+        "Failure/Request": 0.06
+    },
+    {
+        "Domain name": "smallwinemakers.ca",
+        "Request Count": 40,
+        "Failure Count": 40.0,
+        "Requests/s": 0.96,
+        "Average Response Time": 16762.95,
+        "Average Content Size": 1238.5,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "brouwerijdemolen.nl",
+        "Request Count": 1645,
+        "Failure Count": 0.0,
+        "Requests/s": 27.8,
+        "Average Response Time": 385.82,
+        "Average Content Size": 209977.98
+    },
+    {
+        "Domain name": "michelguerard.com",
+        "Request Count": 1753,
+        "Failure Count": 1753.0,
+        "Requests/s": 29.58,
+        "Average Response Time": 196.34,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lefarcon.fr",
+        "Request Count": 1305,
+        "Failure Count": 1158.0,
+        "Requests/s": 22.03,
+        "Average Response Time": 1337.97,
+        "Average Content Size": 18232.19,
+        "Failure/Request": 88.74
+    },
+    {
+        "Domain name": "burger.fr",
+        "Request Count": 227,
+        "Failure Count": 0.0,
+        "Requests/s": 3.89,
+        "Average Response Time": 16719.87,
+        "Average Content Size": 149052.0
+    },
+    {
+        "Domain name": "champagne-bauser.com",
+        "Request Count": 1354,
+        "Failure Count": 1160.0,
+        "Requests/s": 22.85,
+        "Average Response Time": 1013.16,
+        "Average Content Size": 45215.19,
+        "Failure/Request": 85.67
+    },
+    {
+        "Domain name": "josephmellot.com",
+        "Request Count": 148,
+        "Failure Count": 0.0,
+        "Requests/s": 2.5,
+        "Average Response Time": 23692.65,
+        "Average Content Size": 209614.0
+    },
+    {
+        "Domain name": "chateau-cantenac.fr",
+        "Request Count": 111,
+        "Failure Count": 111.0,
+        "Requests/s": 1.92,
+        "Average Response Time": 28889.37,
+        "Average Content Size": 230.14,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lebaligan.fr",
+        "Request Count": 1740,
+        "Failure Count": 0.0,
+        "Requests/s": 29.38,
+        "Average Response Time": 188.26,
+        "Average Content Size": 83289.0
+    },
+    {
+        "Domain name": "golfatlantide.com",
+        "Request Count": 374,
+        "Failure Count": 22.0,
+        "Requests/s": 6.31,
+        "Average Response Time": 10369.8,
+        "Average Content Size": 72597.65,
+        "Failure/Request": 5.88
+    },
+    {
+        "Domain name": "lecerisier.com",
+        "Request Count": 1776,
+        "Failure Count": 0.0,
+        "Requests/s": 29.98,
+        "Average Response Time": 222.99,
+        "Average Content Size": 75851.0
+    },
+    {
+        "Domain name": "sucreriedelamontagne.com",
+        "Request Count": 20,
+        "Failure Count": 0.0,
+        "Requests/s": 0.34,
+        "Average Response Time": 38658.06,
+        "Average Content Size": 64665.0
+    },
+    {
+        "Domain name": "restaurants-alsaciens.fr",
+        "Request Count": 1761,
+        "Failure Count": 1761.0,
+        "Requests/s": 29.71,
+        "Average Response Time": 173.86,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "townfood.com",
+        "Request Count": 1741,
+        "Failure Count": 1741.0,
+        "Requests/s": 29.44,
+        "Average Response Time": 230.44,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lacafeotheque.com",
+        "Request Count": 1220,
+        "Failure Count": 1010.0,
+        "Requests/s": 20.58,
+        "Average Response Time": 1554.11,
+        "Average Content Size": 29808.02,
+        "Failure/Request": 82.79
+    },
+    {
+        "Domain name": "planete-nextgen.com",
+        "Request Count": 1349,
+        "Failure Count": 1042.0,
+        "Requests/s": 22.78,
+        "Average Response Time": 1135.9,
+        "Average Content Size": 22660.23,
+        "Failure/Request": 77.24
+    },
+    {
+        "Domain name": "digiplace.fr",
+        "Request Count": 1806,
+        "Failure Count": 31.0,
+        "Requests/s": 30.44,
+        "Average Response Time": 116.36,
+        "Average Content Size": 15402.99,
+        "Failure/Request": 1.72
+    },
+    {
+        "Domain name": "pascaline.fr",
+        "Request Count": 1787,
+        "Failure Count": 3.0,
+        "Requests/s": 30.15,
+        "Average Response Time": 129.55,
+        "Average Content Size": 150565.81,
+        "Failure/Request": 0.17
+    },
+    {
+        "Domain name": "bioparc-zoo.fr",
+        "Request Count": 1749,
+        "Failure Count": 0.0,
+        "Requests/s": 29.61,
+        "Average Response Time": 207.87,
+        "Average Content Size": 73403.0
+    },
+    {
+        "Domain name": "jacksaloon.com",
+        "Request Count": 695,
+        "Failure Count": 4.0,
+        "Requests/s": 11.76,
+        "Average Response Time": 4744.19,
+        "Average Content Size": 56765.4,
+        "Failure/Request": 0.58
+    },
+    {
+        "Domain name": "chateaudelaresle.com",
+        "Request Count": 1799,
+        "Failure Count": 1799.0,
+        "Requests/s": 30.42,
+        "Average Response Time": 119.09,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "hostellerie-des-clos.fr",
+        "Request Count": 218,
+        "Failure Count": 0.0,
+        "Requests/s": 3.73,
+        "Average Response Time": 15772.22,
+        "Average Content Size": 83617.0
+    },
+    {
+        "Domain name": "zanzibar-voyage.com",
+        "Request Count": 220,
+        "Failure Count": 97.0,
+        "Requests/s": 3.73,
+        "Average Response Time": 14914.5,
+        "Average Content Size": 61060.0,
+        "Failure/Request": 44.09
+    },
+    {
+        "Domain name": "livetsgoda.se",
+        "Request Count": 69,
+        "Failure Count": 0.0,
+        "Requests/s": 1.21,
+        "Average Response Time": 42842.72,
+        "Average Content Size": 297646.64
+    },
+    {
+        "Domain name": "chateaubeauregard.net",
+        "Request Count": 44,
+        "Failure Count": 38.0,
+        "Requests/s": 0.74,
+        "Average Response Time": 40511.62,
+        "Average Content Size": 30572.0,
+        "Failure/Request": 86.36
+    },
+    {
+        "Domain name": "haut-thorenc.com",
+        "Request Count": 1755,
+        "Failure Count": 1755.0,
+        "Requests/s": 29.62,
+        "Average Response Time": 223.21,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "labutte.fr",
+        "Request Count": 1160,
+        "Failure Count": 764.0,
+        "Requests/s": 19.58,
+        "Average Response Time": 1701.68,
+        "Average Content Size": 70599.51,
+        "Failure/Request": 65.86
+    },
+    {
+        "Domain name": "ginkosushi.lu",
+        "Request Count": 1721,
+        "Failure Count": 1603.0,
+        "Requests/s": 29.07,
+        "Average Response Time": 239.59,
+        "Average Content Size": 33545.39,
+        "Failure/Request": 93.14
+    },
+    {
+        "Domain name": "castelach.fr",
+        "Request Count": 713,
+        "Failure Count": 712.0,
+        "Requests/s": 12.04,
+        "Average Response Time": 3610.2,
+        "Average Content Size": 2648.97,
+        "Failure/Request": 99.86
+    },
+    {
+        "Domain name": "godot.se",
+        "Request Count": 1724,
+        "Failure Count": 0.0,
+        "Requests/s": 29.1,
+        "Average Response Time": 259.3,
+        "Average Content Size": 68081.02
+    },
+    {
+        "Domain name": "europvin.com",
+        "Request Count": 1796,
+        "Failure Count": 29.0,
+        "Requests/s": 30.3,
+        "Average Response Time": 148.01,
+        "Average Content Size": 60033.73,
+        "Failure/Request": 1.61
+    },
+    {
+        "Domain name": "grillette.ch",
+        "Request Count": 1694,
+        "Failure Count": 10.0,
+        "Requests/s": 28.58,
+        "Average Response Time": 290.33,
+        "Average Content Size": 146885.35,
+        "Failure/Request": 0.59
+    },
+    {
+        "Domain name": "golfdurochat.com",
+        "Request Count": 956,
+        "Failure Count": 0.0,
+        "Requests/s": 16.14,
+        "Average Response Time": 2736.75,
+        "Average Content Size": 73992.0
+    },
+    {
+        "Domain name": "rhs.be",
+        "Request Count": 1815,
+        "Failure Count": 1815.0,
+        "Requests/s": 30.64,
+        "Average Response Time": 110.27,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lacotel.ch",
+        "Request Count": 180,
+        "Failure Count": 0.0,
+        "Requests/s": 3.04,
+        "Average Response Time": 20741.39,
+        "Average Content Size": 104680.98
+    },
+    {
+        "Domain name": "akle.fr",
+        "Request Count": 75,
+        "Failure Count": 75.0,
+        "Requests/s": 1.27,
+        "Average Response Time": 30708.39,
+        "Average Content Size": 531.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "bizzartclub.com",
+        "Request Count": 50,
+        "Failure Count": 0.0,
+        "Requests/s": 0.85,
+        "Average Response Time": 32545.14,
+        "Average Content Size": 164423.42
+    },
+    {
+        "Domain name": "duboeuf.com",
+        "Request Count": 118,
+        "Failure Count": 0.0,
+        "Requests/s": 2.01,
+        "Average Response Time": 24491.43,
+        "Average Content Size": 301994.64
+    },
+    {
+        "Domain name": "restaurantrivegauche.com",
+        "Request Count": 577,
+        "Failure Count": 25.0,
+        "Requests/s": 9.81,
+        "Average Response Time": 6278.2,
+        "Average Content Size": 30673.79,
+        "Failure/Request": 4.33
+    },
+    {
+        "Domain name": "caffecreole.com",
+        "Request Count": 1831,
+        "Failure Count": 1831.0,
+        "Requests/s": 30.93,
+        "Average Response Time": 116.81,
+        "Average Content Size": 1229.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "sainte-adele.net",
+        "Request Count": 204,
+        "Failure Count": 0.0,
+        "Requests/s": 3.44,
+        "Average Response Time": 18481.11,
+        "Average Content Size": 48641.0
+    },
+    {
+        "Domain name": "deconinckwine.com",
+        "Request Count": 655,
+        "Failure Count": 0.0,
+        "Requests/s": 11.06,
+        "Average Response Time": 5237.39,
+        "Average Content Size": 554910.0
+    },
+    {
+        "Domain name": "3rdragon.ca",
+        "Request Count": 1327,
+        "Failure Count": 1327.0,
+        "Requests/s": 22.4,
+        "Average Response Time": 1145.05,
+        "Average Content Size": 43.21,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lagarelle.fr",
+        "Request Count": 1662,
+        "Failure Count": 657.0,
+        "Requests/s": 28.05,
+        "Average Response Time": 363.35,
+        "Average Content Size": 676060.57,
+        "Failure/Request": 39.53
+    },
+    {
+        "Domain name": "domainesaint-hilaire.com",
+        "Request Count": 910,
+        "Failure Count": 22.0,
+        "Requests/s": 15.35,
+        "Average Response Time": 2910.52,
+        "Average Content Size": 62745.24,
+        "Failure/Request": 2.42
+    },
+    {
+        "Domain name": "aerodrome-gruyere.ch",
+        "Request Count": 1165,
+        "Failure Count": 1142.0,
+        "Requests/s": 19.68,
+        "Average Response Time": 1527.71,
+        "Average Content Size": 3704.49,
+        "Failure/Request": 98.03
+    },
+    {
+        "Domain name": "domaine-de-rombeau.com",
+        "Request Count": 1731,
+        "Failure Count": 0.0,
+        "Requests/s": 29.22,
+        "Average Response Time": 269.22,
+        "Average Content Size": 397858.0
+    },
+    {
+        "Domain name": "elixirs.ca",
+        "Request Count": 305,
+        "Failure Count": 0.0,
+        "Requests/s": 5.15,
+        "Average Response Time": 13462.98,
+        "Average Content Size": 45188.0
+    },
+    {
+        "Domain name": "fromagerie-lemaire.ca",
+        "Request Count": 1326,
+        "Failure Count": 1321.0,
+        "Requests/s": 22.48,
+        "Average Response Time": 1066.61,
+        "Average Content Size": 630.16,
+        "Failure/Request": 99.62
+    },
+    {
+        "Domain name": "bruleriedescantons.com",
+        "Request Count": 1503,
+        "Failure Count": 0.0,
+        "Requests/s": 25.41,
+        "Average Response Time": 673.86,
+        "Average Content Size": 267887.0
+    },
+    {
+        "Domain name": "empordalia.com",
+        "Request Count": 1751,
+        "Failure Count": 1744.0,
+        "Requests/s": 29.56,
+        "Average Response Time": 235.9,
+        "Average Content Size": 708.19,
+        "Failure/Request": 99.6
+    },
+    {
+        "Domain name": "fermebelalpaga.com",
+        "Request Count": 295,
+        "Failure Count": 295.0,
+        "Requests/s": 5.97,
+        "Average Response Time": 12123.2,
+        "Average Content Size": 226.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "cleonis.com",
+        "Request Count": 896,
+        "Failure Count": 836.0,
+        "Requests/s": 15.16,
+        "Average Response Time": 2636.68,
+        "Average Content Size": 7436.99,
+        "Failure/Request": 93.3
+    },
+    {
+        "Domain name": "palais-bonbons.com",
+        "Request Count": 1798,
+        "Failure Count": 1798.0,
+        "Requests/s": 30.38,
+        "Average Response Time": 126.4,
+        "Average Content Size": 197.01,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "jeansulpice.com",
+        "Request Count": 1747,
+        "Failure Count": 90.0,
+        "Requests/s": 29.48,
+        "Average Response Time": 197.0,
+        "Average Content Size": 54514.07,
+        "Failure/Request": 5.15
+    },
+    {
+        "Domain name": "lesfermiers.com",
+        "Request Count": 248,
+        "Failure Count": 248.0,
+        "Requests/s": 4.2,
+        "Average Response Time": 15800.06,
+        "Average Content Size": 1988.86,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "chateauderouillac.com",
+        "Request Count": 1766,
+        "Failure Count": 0.0,
+        "Requests/s": 29.9,
+        "Average Response Time": 178.16,
+        "Average Content Size": 45405.0
+    },
+    {
+        "Domain name": "vigneronsdubrulhois.com",
+        "Request Count": 176,
+        "Failure Count": 176.0,
+        "Requests/s": 2.98,
+        "Average Response Time": 19937.31,
+        "Average Content Size": 1700.28,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "chateauthuerry.com",
+        "Request Count": 350,
+        "Failure Count": 81.0,
+        "Requests/s": 5.9,
+        "Average Response Time": 10927.93,
+        "Average Content Size": 87002.21,
+        "Failure/Request": 23.14
+    },
+    {
+        "Domain name": "grandmerenature.com",
+        "Request Count": 1611,
+        "Failure Count": 0.0,
+        "Requests/s": 27.19,
+        "Average Response Time": 534.7,
+        "Average Content Size": 0.0
+    },
+    {
+        "Domain name": "saintahon.com",
+        "Request Count": 688,
+        "Failure Count": 22.0,
+        "Requests/s": 11.63,
+        "Average Response Time": 4818.91,
+        "Average Content Size": 93013.9,
+        "Failure/Request": 3.2
+    },
+    {
+        "Domain name": "labranche.ch",
+        "Request Count": 1379,
+        "Failure Count": 14.0,
+        "Requests/s": 23.27,
+        "Average Response Time": 1039.83,
+        "Average Content Size": 63370.83,
+        "Failure/Request": 1.02
+    },
+    {
+        "Domain name": "hotel-des-artistes.fr",
+        "Request Count": 1824,
+        "Failure Count": 1824.0,
+        "Requests/s": 30.8,
+        "Average Response Time": 109.78,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "closdeslys.com",
+        "Request Count": 83,
+        "Failure Count": 0.0,
+        "Requests/s": 1.4,
+        "Average Response Time": 27900.94,
+        "Average Content Size": 88176.0
+    },
+    {
+        "Domain name": "lacantinedeschefs.com",
+        "Request Count": 1417,
+        "Failure Count": 1006.0,
+        "Requests/s": 23.89,
+        "Average Response Time": 901.35,
+        "Average Content Size": 9421.36,
+        "Failure/Request": 71.0
+    },
+    {
+        "Domain name": "activital.net",
+        "Request Count": 1808,
+        "Failure Count": 1808.0,
+        "Requests/s": 30.55,
+        "Average Response Time": 121.9,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "kulturstartup.fr",
+        "Request Count": 323,
+        "Failure Count": 321.0,
+        "Requests/s": 5.46,
+        "Average Response Time": 10644.01,
+        "Average Content Size": 2914.61,
+        "Failure/Request": 99.38
+    },
+    {
+        "Domain name": "destination-nyc.com",
+        "Request Count": 926,
+        "Failure Count": 926.0,
+        "Requests/s": 15.65,
+        "Average Response Time": 2872.61,
+        "Average Content Size": 21496.45,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "mamanbooh.com",
+        "Request Count": 163,
+        "Failure Count": 7.0,
+        "Requests/s": 2.76,
+        "Average Response Time": 21984.14,
+        "Average Content Size": 68936.69,
+        "Failure/Request": 4.29
+    },
+    {
+        "Domain name": "mypetitefactory.com",
+        "Request Count": 1463,
+        "Failure Count": 938.0,
+        "Requests/s": 24.71,
+        "Average Response Time": 833.08,
+        "Average Content Size": 36951.92,
+        "Failure/Request": 64.11
+    },
+    {
+        "Domain name": "franck-kestener.com",
+        "Request Count": 1797,
+        "Failure Count": 1797.0,
+        "Requests/s": 30.41,
+        "Average Response Time": 107.98,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "le-975.com",
+        "Request Count": 99,
+        "Failure Count": 99.0,
+        "Requests/s": 1.7,
+        "Average Response Time": 25271.66,
+        "Average Content Size": 215.76,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "venise1.com",
+        "Request Count": 125,
+        "Failure Count": 0.0,
+        "Requests/s": 2.12,
+        "Average Response Time": 27932.79,
+        "Average Content Size": 106121.0
+    },
+    {
+        "Domain name": "laplacedemougins.fr",
+        "Request Count": 1187,
+        "Failure Count": 633.0,
+        "Requests/s": 20.05,
+        "Average Response Time": 1324.88,
+        "Average Content Size": 68546.16,
+        "Failure/Request": 53.33
+    },
+    {
+        "Domain name": "lesturbain.com",
+        "Request Count": 295,
+        "Failure Count": 295.0,
+        "Requests/s": 5.96,
+        "Average Response Time": 12463.56,
+        "Average Content Size": 226.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "mesgougeresauxepinards.fr",
+        "Request Count": 1599,
+        "Failure Count": 1434.0,
+        "Requests/s": 26.99,
+        "Average Response Time": 502.17,
+        "Average Content Size": 24042.94,
+        "Failure/Request": 89.68
+    },
+    {
+        "Domain name": "tourisme-loireatlantique.com",
+        "Request Count": 1012,
+        "Failure Count": 757.0,
+        "Requests/s": 17.06,
+        "Average Response Time": 2346.91,
+        "Average Content Size": 90080.92,
+        "Failure/Request": 74.8
+    },
+    {
+        "Domain name": "brasseriedemontbenon.ch",
+        "Request Count": 456,
+        "Failure Count": 3.0,
+        "Requests/s": 7.72,
+        "Average Response Time": 8154.35,
+        "Average Content Size": 59877.46,
+        "Failure/Request": 0.66
+    },
+    {
+        "Domain name": "les3pinardiers.com",
+        "Request Count": 1725,
+        "Failure Count": 0.0,
+        "Requests/s": 29.12,
+        "Average Response Time": 305.44,
+        "Average Content Size": 212305.0
+    },
+    {
+        "Domain name": "la-maison-valthorens.fr",
+        "Request Count": 1782,
+        "Failure Count": 0.0,
+        "Requests/s": 30.09,
+        "Average Response Time": 135.07,
+        "Average Content Size": 76335.0
+    },
+    {
+        "Domain name": "el-mir.com",
+        "Request Count": 1585,
+        "Failure Count": 1382.0,
+        "Requests/s": 26.74,
+        "Average Response Time": 561.43,
+        "Average Content Size": 11520.03,
+        "Failure/Request": 87.19
+    },
+    {
+        "Domain name": "facteur-emploi.com",
+        "Request Count": 1189,
+        "Failure Count": 192.0,
+        "Requests/s": 20.05,
+        "Average Response Time": 1732.09,
+        "Average Content Size": 103800.52,
+        "Failure/Request": 16.15
+    },
+    {
+        "Domain name": "cavespierrenoble.fr",
+        "Request Count": 218,
+        "Failure Count": 0.0,
+        "Requests/s": 3.7,
+        "Average Response Time": 18204.69,
+        "Average Content Size": 299676.0
+    },
+    {
+        "Domain name": "lafabriqueducafe.fr",
+        "Request Count": 1403,
+        "Failure Count": 1403.0,
+        "Requests/s": 23.7,
+        "Average Response Time": 689.57,
+        "Average Content Size": 312.82,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "kuriocity.fr",
+        "Request Count": 1455,
+        "Failure Count": 1358.0,
+        "Requests/s": 24.59,
+        "Average Response Time": 839.66,
+        "Average Content Size": 12319.13,
+        "Failure/Request": 93.33
+    },
+    {
+        "Domain name": "justindlevine.com",
+        "Request Count": 1616,
+        "Failure Count": 1616.0,
+        "Requests/s": 27.29,
+        "Average Response Time": 471.86,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "laskateboarderie.com",
+        "Request Count": 1492,
+        "Failure Count": 1492.0,
+        "Requests/s": 25.21,
+        "Average Response Time": 718.67,
+        "Average Content Size": 3213.02,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "hotsauce.ch",
+        "Request Count": 893,
+        "Failure Count": 823.0,
+        "Requests/s": 15.08,
+        "Average Response Time": 2871.21,
+        "Average Content Size": 10808.22,
+        "Failure/Request": 92.16
+    },
+    {
+        "Domain name": "clos-sorian.com",
+        "Request Count": 15,
+        "Failure Count": 15.0,
+        "Requests/s": 0.29,
+        "Average Response Time": 43533.01,
+        "Average Content Size": 539.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "doyoucookenglish.com",
+        "Request Count": 0,
+        "Failure Count": 0.0,
+        "Requests/s": 0.0,
+        "Average Response Time": 0.0,
+        "Average Content Size": 0.0
+    },
+    {
+        "Domain name": "privatewhiskysociety.com",
+        "Request Count": 489,
+        "Failure Count": 46.0,
+        "Requests/s": 8.24,
+        "Average Response Time": 7610.97,
+        "Average Content Size": 75947.78,
+        "Failure/Request": 9.41
+    },
+    {
+        "Domain name": "doo-eat.fr",
+        "Request Count": 93,
+        "Failure Count": 92.0,
+        "Requests/s": 1.58,
+        "Average Response Time": 28653.72,
+        "Average Content Size": 1488.45,
+        "Failure/Request": 98.92
+    },
+    {
+        "Domain name": "aumillesime.com",
+        "Request Count": 1154,
+        "Failure Count": 45.0,
+        "Requests/s": 19.53,
+        "Average Response Time": 1829.38,
+        "Average Content Size": 72084.04,
+        "Failure/Request": 3.9
+    },
+    {
+        "Domain name": "planteinfuse.net",
+        "Request Count": 1746,
+        "Failure Count": 95.0,
+        "Requests/s": 29.47,
+        "Average Response Time": 188.74,
+        "Average Content Size": 75624.5,
+        "Failure/Request": 5.44
+    },
+    {
+        "Domain name": "cavestmaurice.com",
+        "Request Count": 1720,
+        "Failure Count": 0.0,
+        "Requests/s": 29.05,
+        "Average Response Time": 210.73,
+        "Average Content Size": 134276.0
+    },
+    {
+        "Domain name": "domainelabarroche.com",
+        "Request Count": 1458,
+        "Failure Count": 1321.0,
+        "Requests/s": 24.61,
+        "Average Response Time": 822.95,
+        "Average Content Size": 10286.56,
+        "Failure/Request": 90.6
+    },
+    {
+        "Domain name": "allaroundthegirl.com",
+        "Request Count": 1765,
+        "Failure Count": 1765.0,
+        "Requests/s": 29.86,
+        "Average Response Time": 164.66,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "chateau-saincrit.com",
+        "Request Count": 1332,
+        "Failure Count": 1171.0,
+        "Requests/s": 22.47,
+        "Average Response Time": 1201.88,
+        "Average Content Size": 19952.16,
+        "Failure/Request": 87.91
+    },
+    {
+        "Domain name": "lapizzadenico.com",
+        "Request Count": 1170,
+        "Failure Count": 772.0,
+        "Requests/s": 19.74,
+        "Average Response Time": 1710.87,
+        "Average Content Size": 16147.61,
+        "Failure/Request": 65.98
+    },
+    {
+        "Domain name": "chateaudejau.com",
+        "Request Count": 261,
+        "Failure Count": 261.0,
+        "Requests/s": 4.4,
+        "Average Response Time": 13784.88,
+        "Average Content Size": 2405.19,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "restaurantbruno.com",
+        "Request Count": 109,
+        "Failure Count": 27.0,
+        "Requests/s": 1.85,
+        "Average Response Time": 25085.64,
+        "Average Content Size": 92130.16,
+        "Failure/Request": 24.77
+    },
+    {
+        "Domain name": "habitationlagriveliere.com",
+        "Request Count": 604,
+        "Failure Count": 587.0,
+        "Requests/s": 10.2,
+        "Average Response Time": 4113.42,
+        "Average Content Size": 3192.77,
+        "Failure/Request": 97.19
+    },
+    {
+        "Domain name": "cafes-savina.fr",
+        "Request Count": 157,
+        "Failure Count": 3.0,
+        "Requests/s": 2.74,
+        "Average Response Time": 19960.52,
+        "Average Content Size": 73299.1,
+        "Failure/Request": 1.91
+    },
+    {
+        "Domain name": "golfdusoleil.com",
+        "Request Count": 8,
+        "Failure Count": 0.0,
+        "Requests/s": 0.25,
+        "Average Response Time": 32414.18,
+        "Average Content Size": 115122.0
+    },
+    {
+        "Domain name": "ventoux-magazine.com",
+        "Request Count": 830,
+        "Failure Count": 830.0,
+        "Requests/s": 14.0,
+        "Average Response Time": 3379.14,
+        "Average Content Size": 2152.43,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "grenachesdumonde.com",
+        "Request Count": 133,
+        "Failure Count": 0.0,
+        "Requests/s": 2.26,
+        "Average Response Time": 26182.61,
+        "Average Content Size": 70170.0
+    },
+    {
+        "Domain name": "ichiban-japan.com",
+        "Request Count": 1687,
+        "Failure Count": 1687.0,
+        "Requests/s": 28.48,
+        "Average Response Time": 325.1,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lamerebrazier.fr",
+        "Request Count": 1377,
+        "Failure Count": 1226.0,
+        "Requests/s": 23.25,
+        "Average Response Time": 1081.81,
+        "Average Content Size": 111165.07,
+        "Failure/Request": 89.03
+    },
+    {
+        "Domain name": "restaurant-levidence.com",
+        "Request Count": 110,
+        "Failure Count": 0.0,
+        "Requests/s": 1.87,
+        "Average Response Time": 32315.5,
+        "Average Content Size": 2863092.34
+    },
+    {
+        "Domain name": "vigneenfoule.fr",
+        "Request Count": 46,
+        "Failure Count": 46.0,
+        "Requests/s": 0.78,
+        "Average Response Time": 30794.87,
+        "Average Content Size": 539.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "les-faunes.ch",
+        "Request Count": 1156,
+        "Failure Count": 1073.0,
+        "Requests/s": 19.55,
+        "Average Response Time": 1750.41,
+        "Average Content Size": 53205.23,
+        "Failure/Request": 92.82
+    },
+    {
+        "Domain name": "pien.fi",
+        "Request Count": 1382,
+        "Failure Count": 1316.0,
+        "Requests/s": 23.33,
+        "Average Response Time": 988.21,
+        "Average Content Size": 4352.37,
+        "Failure/Request": 95.22
+    },
+    {
+        "Domain name": "aiguilledumidi-restaurant.com",
+        "Request Count": 1775,
+        "Failure Count": 1775.0,
+        "Requests/s": 29.94,
+        "Average Response Time": 116.63,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "racletthouse.ch",
+        "Request Count": 1157,
+        "Failure Count": 1084.0,
+        "Requests/s": 19.58,
+        "Average Response Time": 1756.86,
+        "Average Content Size": 17754.59,
+        "Failure/Request": 93.69
+    },
+    {
+        "Domain name": "meetmymama.com",
+        "Request Count": 1638,
+        "Failure Count": 633.0,
+        "Requests/s": 27.75,
+        "Average Response Time": 370.87,
+        "Average Content Size": 1093861.44,
+        "Failure/Request": 38.64
+    },
+    {
+        "Domain name": "aupetitpoucet.ca",
+        "Request Count": 429,
+        "Failure Count": 360.0,
+        "Requests/s": 7.55,
+        "Average Response Time": 7691.38,
+        "Average Content Size": 13072.92,
+        "Failure/Request": 83.92
+    },
+    {
+        "Domain name": "dsp-interface.be",
+        "Request Count": 1795,
+        "Failure Count": 15.0,
+        "Requests/s": 30.27,
+        "Average Response Time": 132.56,
+        "Average Content Size": 189248.08,
+        "Failure/Request": 0.84
+    },
+    {
+        "Domain name": "1282ruedelamaison.com",
+        "Request Count": 1797,
+        "Failure Count": 0.0,
+        "Requests/s": 30.32,
+        "Average Response Time": 140.78,
+        "Average Content Size": 16443.28
+    },
+    {
+        "Domain name": "mariedemazet.com",
+        "Request Count": 1840,
+        "Failure Count": 1840.0,
+        "Requests/s": 31.04,
+        "Average Response Time": 105.91,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "pacini.com",
+        "Request Count": 1748,
+        "Failure Count": 1748.0,
+        "Requests/s": 29.49,
+        "Average Response Time": 232.67,
+        "Average Content Size": 1215.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lechaletduloup.com",
+        "Request Count": 1652,
+        "Failure Count": 0.0,
+        "Requests/s": 27.99,
+        "Average Response Time": 430.21,
+        "Average Content Size": 36267.0
+    },
+    {
+        "Domain name": "casino-frejus.fr",
+        "Request Count": 1788,
+        "Failure Count": 1788.0,
+        "Requests/s": 30.16,
+        "Average Response Time": 111.37,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lesbonnesjoies.fr",
+        "Request Count": 322,
+        "Failure Count": 0.0,
+        "Requests/s": 5.44,
+        "Average Response Time": 11773.21,
+        "Average Content Size": 5784.0
+    },
+    {
+        "Domain name": "celinepham.com",
+        "Request Count": 801,
+        "Failure Count": 0.0,
+        "Requests/s": 13.52,
+        "Average Response Time": 3826.09,
+        "Average Content Size": 23172.0
+    },
+    {
+        "Domain name": "panachedesign.ca",
+        "Request Count": 125,
+        "Failure Count": 3.0,
+        "Requests/s": 2.2,
+        "Average Response Time": 1293.98,
+        "Average Content Size": 139193.22,
+        "Failure/Request": 2.4
+    },
+    {
+        "Domain name": "capvert-roots.com",
+        "Request Count": 1791,
+        "Failure Count": 1791.0,
+        "Requests/s": 30.23,
+        "Average Response Time": 121.94,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "palettedebine.com",
+        "Request Count": 1702,
+        "Failure Count": 0.0,
+        "Requests/s": 28.79,
+        "Average Response Time": 259.23,
+        "Average Content Size": 139717.0
+    },
+    {
+        "Domain name": "lescathedralesdelasaulaie.com",
+        "Request Count": 20,
+        "Failure Count": 20.0,
+        "Requests/s": 0.35,
+        "Average Response Time": 41124.99,
+        "Average Content Size": 807.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "barencan.com",
+        "Request Count": 1785,
+        "Failure Count": 0.0,
+        "Requests/s": 30.17,
+        "Average Response Time": 143.29,
+        "Average Content Size": 108955.0
+    },
+    {
+        "Domain name": "jacoulot.com",
+        "Request Count": 71,
+        "Failure Count": 61.0,
+        "Requests/s": 1.22,
+        "Average Response Time": 28349.35,
+        "Average Content Size": 21423.48,
+        "Failure/Request": 85.92
+    },
+    {
+        "Domain name": "ladiplomate.fr",
+        "Request Count": 1787,
+        "Failure Count": 1787.0,
+        "Requests/s": 30.15,
+        "Average Response Time": 161.19,
+        "Average Content Size": 4779.7,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lesburgersdepapa.fr",
+        "Request Count": 1779,
+        "Failure Count": 707.0,
+        "Requests/s": 30.08,
+        "Average Response Time": 202.62,
+        "Average Content Size": 77265.92,
+        "Failure/Request": 39.74
+    },
+    {
+        "Domain name": "artfood.be",
+        "Request Count": 876,
+        "Failure Count": 0.0,
+        "Requests/s": 14.8,
+        "Average Response Time": 3247.33,
+        "Average Content Size": 41783.0
+    },
+    {
+        "Domain name": "1001fondues.com",
+        "Request Count": 1700,
+        "Failure Count": 0.0,
+        "Requests/s": 28.7,
+        "Average Response Time": 304.39,
+        "Average Content Size": 143009.0
+    },
+    {
+        "Domain name": "grandparquet.com",
+        "Request Count": 955,
+        "Failure Count": 954.0,
+        "Requests/s": 16.12,
+        "Average Response Time": 2301.15,
+        "Average Content Size": 2473.95,
+        "Failure/Request": 99.9
+    },
+    {
+        "Domain name": "petitparadis.com",
+        "Request Count": 1627,
+        "Failure Count": 1400.0,
+        "Requests/s": 27.44,
+        "Average Response Time": 416.77,
+        "Average Content Size": 28777.6,
+        "Failure/Request": 86.05
+    },
+    {
+        "Domain name": "richemer.fr",
+        "Request Count": 1521,
+        "Failure Count": 50.0,
+        "Requests/s": 25.7,
+        "Average Response Time": 689.57,
+        "Average Content Size": 214680.89,
+        "Failure/Request": 3.29
+    },
+    {
+        "Domain name": "groupericher.com",
+        "Request Count": 1334,
+        "Failure Count": 0.0,
+        "Requests/s": 22.54,
+        "Average Response Time": 1213.85,
+        "Average Content Size": 142654.0
+    },
+    {
+        "Domain name": "icave.eu",
+        "Request Count": 1275,
+        "Failure Count": 29.0,
+        "Requests/s": 21.54,
+        "Average Response Time": 1385.9,
+        "Average Content Size": 70648.6,
+        "Failure/Request": 2.27
+    },
+    {
+        "Domain name": "mavrommatis.com",
+        "Request Count": 1755,
+        "Failure Count": 1755.0,
+        "Requests/s": 29.63,
+        "Average Response Time": 198.85,
+        "Average Content Size": 90.4,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "domaine-du-paradis.ch",
+        "Request Count": 1166,
+        "Failure Count": 899.0,
+        "Requests/s": 19.69,
+        "Average Response Time": 1703.18,
+        "Average Content Size": 24469.26,
+        "Failure/Request": 77.1
+    },
+    {
+        "Domain name": "aixetterra.com",
+        "Request Count": 172,
+        "Failure Count": 0.0,
+        "Requests/s": 2.9,
+        "Average Response Time": 21548.08,
+        "Average Content Size": 683828.0
+    },
+    {
+        "Domain name": "arnaudlarher.com",
+        "Request Count": 1717,
+        "Failure Count": 0.0,
+        "Requests/s": 28.98,
+        "Average Response Time": 280.4,
+        "Average Content Size": 509475.0
+    },
+    {
+        "Domain name": "laplage.fr",
+        "Request Count": 241,
+        "Failure Count": 6.0,
+        "Requests/s": 4.07,
+        "Average Response Time": 17948.48,
+        "Average Content Size": 69370.33,
+        "Failure/Request": 2.49
+    },
+    {
+        "Domain name": "aperoboulot.com",
+        "Request Count": 1448,
+        "Failure Count": 0.0,
+        "Requests/s": 24.45,
+        "Average Response Time": 891.7,
+        "Average Content Size": 539315.0
+    },
+    {
+        "Domain name": "o-maroc.com",
+        "Request Count": 1740,
+        "Failure Count": 51.0,
+        "Requests/s": 29.39,
+        "Average Response Time": 266.04,
+        "Average Content Size": 127171.99,
+        "Failure/Request": 2.93
+    },
+    {
+        "Domain name": "letempsdunepinte.ca",
+        "Request Count": 1554,
+        "Failure Count": 75.0,
+        "Requests/s": 26.24,
+        "Average Response Time": 568.07,
+        "Average Content Size": 66028.69,
+        "Failure/Request": 4.83
+    },
+    {
+        "Domain name": "etoileduliban.com",
+        "Request Count": 988,
+        "Failure Count": 729.0,
+        "Requests/s": 16.66,
+        "Average Response Time": 2486.23,
+        "Average Content Size": 7341.65,
+        "Failure/Request": 73.79
+    },
+    {
+        "Domain name": "panameartcafe.com",
+        "Request Count": 171,
+        "Failure Count": 1.0,
+        "Requests/s": 2.88,
+        "Average Response Time": 23221.24,
+        "Average Content Size": 73993.74,
+        "Failure/Request": 0.58
+    },
+    {
+        "Domain name": "marineiscooking.com",
+        "Request Count": 115,
+        "Failure Count": 115.0,
+        "Requests/s": 1.96,
+        "Average Response Time": 26585.98,
+        "Average Content Size": 543.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "belenium.com",
+        "Request Count": 1709,
+        "Failure Count": 1.0,
+        "Requests/s": 28.88,
+        "Average Response Time": 246.72,
+        "Average Content Size": 81064.11,
+        "Failure/Request": 0.06
+    },
+    {
+        "Domain name": "missebene.fr",
+        "Request Count": 152,
+        "Failure Count": 0.0,
+        "Requests/s": 2.59,
+        "Average Response Time": 24099.47,
+        "Average Content Size": 82783.0
+    },
+    {
+        "Domain name": "maryseetcocotte.com",
+        "Request Count": 1768,
+        "Failure Count": 1768.0,
+        "Requests/s": 29.86,
+        "Average Response Time": 195.0,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "unecuillereepourpapa.net",
+        "Request Count": 165,
+        "Failure Count": 74.0,
+        "Requests/s": 2.78,
+        "Average Response Time": 20904.1,
+        "Average Content Size": 61952.59,
+        "Failure/Request": 44.85
+    },
+    {
+        "Domain name": "jdbn.fr",
+        "Request Count": 1703,
+        "Failure Count": 1459.0,
+        "Requests/s": 28.77,
+        "Average Response Time": 314.69,
+        "Average Content Size": 112557.52,
+        "Failure/Request": 85.67
+    },
+    {
+        "Domain name": "camping-artdevivre.com",
+        "Request Count": 1091,
+        "Failure Count": 37.0,
+        "Requests/s": 18.47,
+        "Average Response Time": 2051.74,
+        "Average Content Size": 63334.37,
+        "Failure/Request": 3.39
+    },
+    {
+        "Domain name": "thecrazysoprane.fr",
+        "Request Count": 1699,
+        "Failure Count": 0.0,
+        "Requests/s": 28.68,
+        "Average Response Time": 303.71,
+        "Average Content Size": 49745.0
+    },
+    {
+        "Domain name": "vineabox.com",
+        "Request Count": 1786,
+        "Failure Count": 1786.0,
+        "Requests/s": 30.2,
+        "Average Response Time": 209.82,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "cote-mas.fr",
+        "Request Count": 14,
+        "Failure Count": 0.0,
+        "Requests/s": 0.25,
+        "Average Response Time": 35211.7,
+        "Average Content Size": 296130.0
+    },
+    {
+        "Domain name": "fulgurances.com",
+        "Request Count": 1138,
+        "Failure Count": 861.0,
+        "Requests/s": 19.22,
+        "Average Response Time": 1841.85,
+        "Average Content Size": 8998.2,
+        "Failure/Request": 75.66
+    },
+    {
+        "Domain name": "lesgrandsdespagne.fr",
+        "Request Count": 1776,
+        "Failure Count": 1776.0,
+        "Requests/s": 30.0,
+        "Average Response Time": 183.34,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "breves-histoire.fr",
+        "Request Count": 1739,
+        "Failure Count": 51.0,
+        "Requests/s": 29.34,
+        "Average Response Time": 240.22,
+        "Average Content Size": 181153.75,
+        "Failure/Request": 2.93
+    },
+    {
+        "Domain name": "fermedesarnaud.com",
+        "Request Count": 186,
+        "Failure Count": 186.0,
+        "Requests/s": 3.14,
+        "Average Response Time": 19113.07,
+        "Average Content Size": 1945.79,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "carnetsparisiens.com",
+        "Request Count": 87,
+        "Failure Count": 56.0,
+        "Requests/s": 1.5,
+        "Average Response Time": 31855.16,
+        "Average Content Size": 26135.49,
+        "Failure/Request": 64.37
+    },
+    {
+        "Domain name": "le4emur.com",
+        "Request Count": 1,
+        "Failure Count": 1.0,
+        "Requests/s": 0.02,
+        "Average Response Time": 53602.04,
+        "Average Content Size": 719.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "sweet-ski.com",
+        "Request Count": 1329,
+        "Failure Count": 315.0,
+        "Requests/s": 22.45,
+        "Average Response Time": 1226.39,
+        "Average Content Size": 76428.01,
+        "Failure/Request": 23.7
+    },
+    {
+        "Domain name": "casino-castera-verduzan.fr",
+        "Request Count": 1810,
+        "Failure Count": 1810.0,
+        "Requests/s": 30.55,
+        "Average Response Time": 107.18,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "francesushi.fr",
+        "Request Count": 1824,
+        "Failure Count": 1824.0,
+        "Requests/s": 30.79,
+        "Average Response Time": 113.98,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "eataly.fr",
+        "Request Count": 1665,
+        "Failure Count": 0.0,
+        "Requests/s": 28.16,
+        "Average Response Time": 316.12,
+        "Average Content Size": 472179.69
+    },
+    {
+        "Domain name": "rhone-sportif-rugby.fr",
+        "Request Count": 1735,
+        "Failure Count": 80.0,
+        "Requests/s": 29.43,
+        "Average Response Time": 251.18,
+        "Average Content Size": 163534.03,
+        "Failure/Request": 4.61
+    },
+    {
+        "Domain name": "thebabelcommunity.com",
+        "Request Count": 394,
+        "Failure Count": 0.0,
+        "Requests/s": 6.66,
+        "Average Response Time": 9688.36,
+        "Average Content Size": 508012.93
+    },
+    {
+        "Domain name": "buron-aubrac.fr",
+        "Request Count": 65,
+        "Failure Count": 65.0,
+        "Requests/s": 1.1,
+        "Average Response Time": 30557.18,
+        "Average Content Size": 522.42,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "restaurant-lestagnol.com",
+        "Request Count": 1431,
+        "Failure Count": 961.0,
+        "Requests/s": 24.13,
+        "Average Response Time": 823.49,
+        "Average Content Size": 438.75,
+        "Failure/Request": 67.16
+    },
+    {
+        "Domain name": "lebonpicnic.com",
+        "Request Count": 1295,
+        "Failure Count": 1055.0,
+        "Requests/s": 21.87,
+        "Average Response Time": 1317.25,
+        "Average Content Size": 82644.74,
+        "Failure/Request": 81.47
+    },
+    {
+        "Domain name": "lespaganis.com",
+        "Request Count": 1749,
+        "Failure Count": 476.0,
+        "Requests/s": 29.53,
+        "Average Response Time": 223.26,
+        "Average Content Size": 181274.82,
+        "Failure/Request": 27.22
+    },
+    {
+        "Domain name": "jeanchauvel.fr",
+        "Request Count": 1758,
+        "Failure Count": 1758.0,
+        "Requests/s": 29.69,
+        "Average Response Time": 190.61,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "ovaille.com",
+        "Request Count": 1397,
+        "Failure Count": 68.0,
+        "Requests/s": 23.58,
+        "Average Response Time": 990.04,
+        "Average Content Size": 45399.89,
+        "Failure/Request": 4.87
+    },
+    {
+        "Domain name": "alexya.fr",
+        "Request Count": 262,
+        "Failure Count": 0.0,
+        "Requests/s": 4.42,
+        "Average Response Time": 14822.68,
+        "Average Content Size": 498131.36
+    },
+    {
+        "Domain name": "edouardbarra.fr",
+        "Request Count": 482,
+        "Failure Count": 87.0,
+        "Requests/s": 8.14,
+        "Average Response Time": 7864.15,
+        "Average Content Size": 76900.85,
+        "Failure/Request": 18.05
+    },
+    {
+        "Domain name": "mairie-chasselay.fr",
+        "Request Count": 308,
+        "Failure Count": 28.0,
+        "Requests/s": 5.22,
+        "Average Response Time": 13151.7,
+        "Average Content Size": 193767.27,
+        "Failure/Request": 9.09
+    },
+    {
+        "Domain name": "goutezlotbiniere.com",
+        "Request Count": 1306,
+        "Failure Count": 1137.0,
+        "Requests/s": 22.05,
+        "Average Response Time": 1235.53,
+        "Average Content Size": 17279.13,
+        "Failure/Request": 87.06
+    },
+    {
+        "Domain name": "abri-jardin-bois.fr",
+        "Request Count": 1481,
+        "Failure Count": 1332.0,
+        "Requests/s": 25.04,
+        "Average Response Time": 829.76,
+        "Average Content Size": 49148.09,
+        "Failure/Request": 89.94
+    },
+    {
+        "Domain name": "hotel-jardin-maore.com",
+        "Request Count": 1095,
+        "Failure Count": 24.0,
+        "Requests/s": 18.49,
+        "Average Response Time": 1935.26,
+        "Average Content Size": 50422.09,
+        "Failure/Request": 2.19
+    },
+    {
+        "Domain name": "hotel-les2rives.com",
+        "Request Count": 92,
+        "Failure Count": 0.0,
+        "Requests/s": 1.57,
+        "Average Response Time": 33467.44,
+        "Average Content Size": 123285.0
+    },
+    {
+        "Domain name": "maison-du-jambon-au-pays-basque.com",
+        "Request Count": 879,
+        "Failure Count": 879.0,
+        "Requests/s": 14.87,
+        "Average Response Time": 1965.9,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "millepattesamusement.com",
+        "Request Count": 1484,
+        "Failure Count": 0.0,
+        "Requests/s": 25.05,
+        "Average Response Time": 783.13,
+        "Average Content Size": 147536.0
+    },
+    {
+        "Domain name": "cours-de-cuisine-du-chef.fr",
+        "Request Count": 1635,
+        "Failure Count": 43.0,
+        "Requests/s": 27.68,
+        "Average Response Time": 384.69,
+        "Average Content Size": 40593.57,
+        "Failure/Request": 2.63
+    },
+    {
+        "Domain name": "chateaudesbois.ch",
+        "Request Count": 1147,
+        "Failure Count": 1122.0,
+        "Requests/s": 19.39,
+        "Average Response Time": 1675.27,
+        "Average Content Size": 4276.55,
+        "Failure/Request": 97.82
+    },
+    {
+        "Domain name": "patisserietomo.fr",
+        "Request Count": 1803,
+        "Failure Count": 1803.0,
+        "Requests/s": 30.43,
+        "Average Response Time": 114.45,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "cabinetbagot.fr",
+        "Request Count": 1172,
+        "Failure Count": 29.0,
+        "Requests/s": 19.93,
+        "Average Response Time": 1714.05,
+        "Average Content Size": 1106069.01,
+        "Failure/Request": 2.47
+    },
+    {
+        "Domain name": "stephanepasco.com",
+        "Request Count": 129,
+        "Failure Count": 0.0,
+        "Requests/s": 2.19,
+        "Average Response Time": 31350.57,
+        "Average Content Size": 141618.0
+    },
+    {
+        "Domain name": "brasserieinox.com",
+        "Request Count": 1645,
+        "Failure Count": 0.0,
+        "Requests/s": 27.79,
+        "Average Response Time": 398.42,
+        "Average Content Size": 85527.0
+    },
+    {
+        "Domain name": "bistrotcommehier.com",
+        "Request Count": 1741,
+        "Failure Count": 1741.0,
+        "Requests/s": 29.49,
+        "Average Response Time": 188.02,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "maurin-des-maures.com",
+        "Request Count": 0,
+        "Failure Count": 0.0,
+        "Requests/s": 0.0,
+        "Average Response Time": 0.0,
+        "Average Content Size": 0.0
+    },
+    {
+        "Domain name": "code-cuisine.com",
+        "Request Count": 116,
+        "Failure Count": 0.0,
+        "Requests/s": 2.02,
+        "Average Response Time": 19521.92,
+        "Average Content Size": 89682.03
+    },
+    {
+        "Domain name": "restaurant-sarrebourg.fr",
+        "Request Count": 1155,
+        "Failure Count": 1035.0,
+        "Requests/s": 19.52,
+        "Average Response Time": 1737.47,
+        "Average Content Size": 12035.68,
+        "Failure/Request": 89.61
+    },
+    {
+        "Domain name": "lespetitsplatsdubourbon.com",
+        "Request Count": 1109,
+        "Failure Count": 835.0,
+        "Requests/s": 18.71,
+        "Average Response Time": 1960.75,
+        "Average Content Size": 66858.13,
+        "Failure/Request": 75.29
+    },
+    {
+        "Domain name": "bieredebordeaux.com",
+        "Request Count": 342,
+        "Failure Count": 342.0,
+        "Requests/s": 5.83,
+        "Average Response Time": 9322.34,
+        "Average Content Size": 2358.77,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "aubergedesenclos.com",
+        "Request Count": 1393,
+        "Failure Count": 1300.0,
+        "Requests/s": 23.51,
+        "Average Response Time": 1076.02,
+        "Average Content Size": 8888.2,
+        "Failure/Request": 93.32
+    },
+    {
+        "Domain name": "chapillon.com",
+        "Request Count": 238,
+        "Failure Count": 145.0,
+        "Requests/s": 4.07,
+        "Average Response Time": 18788.98,
+        "Average Content Size": 20524.69,
+        "Failure/Request": 60.92
+    },
+    {
+        "Domain name": "buddha-station.com",
+        "Request Count": 100,
+        "Failure Count": 100.0,
+        "Requests/s": 2.05,
+        "Average Response Time": 39545.79,
+        "Average Content Size": 7029.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "royalbercuitgolfclub.be",
+        "Request Count": 1195,
+        "Failure Count": 1081.0,
+        "Requests/s": 20.17,
+        "Average Response Time": 1611.79,
+        "Average Content Size": 16893.29,
+        "Failure/Request": 90.46
+    },
+    {
+        "Domain name": "monsregius.ca",
+        "Request Count": 1759,
+        "Failure Count": 0.0,
+        "Requests/s": 29.73,
+        "Average Response Time": 222.66,
+        "Average Content Size": 103923.0
+    },
+    {
+        "Domain name": "klpatisserie.com",
+        "Request Count": 1761,
+        "Failure Count": 1761.0,
+        "Requests/s": 29.78,
+        "Average Response Time": 207.78,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "voyagesenlegumie.be",
+        "Request Count": 140,
+        "Failure Count": 0.0,
+        "Requests/s": 2.37,
+        "Average Response Time": 25387.18,
+        "Average Content Size": 78602.0
+    },
+    {
+        "Domain name": "desidcrea.com",
+        "Request Count": 1812,
+        "Failure Count": 1812.0,
+        "Requests/s": 30.58,
+        "Average Response Time": 114.11,
+        "Average Content Size": 173.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "aeroclub-issoire.fr",
+        "Request Count": 1552,
+        "Failure Count": 1355.0,
+        "Requests/s": 26.17,
+        "Average Response Time": 603.21,
+        "Average Content Size": 24776.05,
+        "Failure/Request": 87.31
+    },
+    {
+        "Domain name": "maisonleger.be",
+        "Request Count": 82,
+        "Failure Count": 0.0,
+        "Requests/s": 1.39,
+        "Average Response Time": 30111.83,
+        "Average Content Size": 193096.0
+    },
+    {
+        "Domain name": "prieure.ch",
+        "Request Count": 1171,
+        "Failure Count": 1168.0,
+        "Requests/s": 19.75,
+        "Average Response Time": 1472.11,
+        "Average Content Size": 1234.45,
+        "Failure/Request": 99.74
+    },
+    {
+        "Domain name": "ladourbie.fr",
+        "Request Count": 1250,
+        "Failure Count": 745.0,
+        "Requests/s": 21.11,
+        "Average Response Time": 1383.61,
+        "Average Content Size": 30714.4,
+        "Failure/Request": 59.6
+    },
+    {
+        "Domain name": "lamobyletteverte.com",
+        "Request Count": 1476,
+        "Failure Count": 1476.0,
+        "Requests/s": 24.99,
+        "Average Response Time": 788.7,
+        "Average Content Size": 414.97,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "tiffanyskye-dietetique.fr",
+        "Request Count": 1671,
+        "Failure Count": 666.0,
+        "Requests/s": 28.19,
+        "Average Response Time": 388.8,
+        "Average Content Size": 986962.91,
+        "Failure/Request": 39.86
+    },
+    {
+        "Domain name": "xaya.fr",
+        "Request Count": 563,
+        "Failure Count": 0.0,
+        "Requests/s": 9.5,
+        "Average Response Time": 6159.72,
+        "Average Content Size": 30472.0
+    },
+    {
+        "Domain name": "lesdelicesorsatus.com",
+        "Request Count": 27,
+        "Failure Count": 27.0,
+        "Requests/s": 0.51,
+        "Average Response Time": 36625.02,
+        "Average Content Size": 545.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "latelierdescafes.com",
+        "Request Count": 1661,
+        "Failure Count": 0.0,
+        "Requests/s": 28.09,
+        "Average Response Time": 390.63,
+        "Average Content Size": 317961.0
+    },
+    {
+        "Domain name": "doreau-tonneliers.com",
+        "Request Count": 128,
+        "Failure Count": 4.0,
+        "Requests/s": 2.16,
+        "Average Response Time": 25809.1,
+        "Average Content Size": 59833.5,
+        "Failure/Request": 3.12
+    },
+    {
+        "Domain name": "parlez-vous-digital.fr",
+        "Request Count": 1036,
+        "Failure Count": 0.0,
+        "Requests/s": 17.49,
+        "Average Response Time": 2310.16,
+        "Average Content Size": 396211.0
+    },
+    {
+        "Domain name": "livingincognac.com",
+        "Request Count": 53,
+        "Failure Count": 3.0,
+        "Requests/s": 0.92,
+        "Average Response Time": 29588.7,
+        "Average Content Size": 104271.7,
+        "Failure/Request": 5.66
+    },
+    {
+        "Domain name": "coraloomis.com",
+        "Request Count": 90,
+        "Failure Count": 3.0,
+        "Requests/s": 1.53,
+        "Average Response Time": 4154.48,
+        "Average Content Size": 109947.7,
+        "Failure/Request": 3.33
+    },
+    {
+        "Domain name": "vinsdumonde.blog",
+        "Request Count": 1697,
+        "Failure Count": 0.0,
+        "Requests/s": 28.67,
+        "Average Response Time": 359.73,
+        "Average Content Size": 294874.0
+    },
+    {
+        "Domain name": "larocheleroy.com",
+        "Request Count": 1715,
+        "Failure Count": 1117.0,
+        "Requests/s": 28.98,
+        "Average Response Time": 326.08,
+        "Average Content Size": 47795.95,
+        "Failure/Request": 65.13
+    },
+    {
+        "Domain name": "coat-albret.com",
+        "Request Count": 974,
+        "Failure Count": 974.0,
+        "Requests/s": 16.49,
+        "Average Response Time": 2573.12,
+        "Average Content Size": 1557.07,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "japan-kudasai.com",
+        "Request Count": 1727,
+        "Failure Count": 1485.0,
+        "Requests/s": 29.16,
+        "Average Response Time": 296.26,
+        "Average Content Size": 18209.26,
+        "Failure/Request": 85.99
+    },
+    {
+        "Domain name": "hotel-pelvoux-menuires.com",
+        "Request Count": 1203,
+        "Failure Count": 1101.0,
+        "Requests/s": 20.35,
+        "Average Response Time": 1394.95,
+        "Average Content Size": 6550.72,
+        "Failure/Request": 91.52
+    },
+    {
+        "Domain name": "loloetmoi.com",
+        "Request Count": 1619,
+        "Failure Count": 0.0,
+        "Requests/s": 27.49,
+        "Average Response Time": 449.7,
+        "Average Content Size": 455780.75
+    },
+    {
+        "Domain name": "leparatonnerre.fr",
+        "Request Count": 1773,
+        "Failure Count": 1773.0,
+        "Requests/s": 30.0,
+        "Average Response Time": 192.02,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "livraisons-fruits-mer-langousta-paris.fr",
+        "Request Count": 850,
+        "Failure Count": 7.0,
+        "Requests/s": 14.33,
+        "Average Response Time": 3460.82,
+        "Average Content Size": 128497.89,
+        "Failure/Request": 0.82
+    },
+    {
+        "Domain name": "la-roque-bandol.com",
+        "Request Count": 1418,
+        "Failure Count": 1399.0,
+        "Requests/s": 23.91,
+        "Average Response Time": 909.0,
+        "Average Content Size": 3044.33,
+        "Failure/Request": 98.66
+    },
+    {
+        "Domain name": "le203.com",
+        "Request Count": 122,
+        "Failure Count": 20.0,
+        "Requests/s": 2.13,
+        "Average Response Time": 25252.59,
+        "Average Content Size": 36643.92,
+        "Failure/Request": 16.39
+    },
+    {
+        "Domain name": "boutiquepatatietpatata.com",
+        "Request Count": 1662,
+        "Failure Count": 1297.0,
+        "Requests/s": 28.05,
+        "Average Response Time": 355.42,
+        "Average Content Size": 42482.24,
+        "Failure/Request": 78.04
+    },
+    {
+        "Domain name": "voyagespaschers.be",
+        "Request Count": 1719,
+        "Failure Count": 71.0,
+        "Requests/s": 29.03,
+        "Average Response Time": 280.1,
+        "Average Content Size": 49306.74,
+        "Failure/Request": 4.13
+    },
+    {
+        "Domain name": "letapeduventoux.fr",
+        "Request Count": 1180,
+        "Failure Count": 1028.0,
+        "Requests/s": 20.0,
+        "Average Response Time": 1623.73,
+        "Average Content Size": 47724.38,
+        "Failure/Request": 87.12
+    },
+    {
+        "Domain name": "laseigneurie.net",
+        "Request Count": 1070,
+        "Failure Count": 976.0,
+        "Requests/s": 18.08,
+        "Average Response Time": 2322.85,
+        "Average Content Size": 24001.68,
+        "Failure/Request": 91.21
+    },
+    {
+        "Domain name": "distilleriemariana.com",
+        "Request Count": 1586,
+        "Failure Count": 0.0,
+        "Requests/s": 26.74,
+        "Average Response Time": 587.18,
+        "Average Content Size": 52519.59
+    },
+    {
+        "Domain name": "manoirbelair.com",
+        "Request Count": 297,
+        "Failure Count": 297.0,
+        "Requests/s": 5.38,
+        "Average Response Time": 636.13,
+        "Average Content Size": 273.45,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "aupetitcharlot.fr",
+        "Request Count": 432,
+        "Failure Count": 338.0,
+        "Requests/s": 7.28,
+        "Average Response Time": 8694.44,
+        "Average Content Size": 1891.18,
+        "Failure/Request": 78.24
+    },
+    {
+        "Domain name": "markina.ca",
+        "Request Count": 126,
+        "Failure Count": 6.0,
+        "Requests/s": 2.14,
+        "Average Response Time": 29207.79,
+        "Average Content Size": 134372.38,
+        "Failure/Request": 4.76
+    },
+    {
+        "Domain name": "vignoblemarchais.fr",
+        "Request Count": 1433,
+        "Failure Count": 1391.0,
+        "Requests/s": 24.2,
+        "Average Response Time": 488.87,
+        "Average Content Size": 6729.61,
+        "Failure/Request": 97.07
+    },
+    {
+        "Domain name": "moodexperience.fr",
+        "Request Count": 223,
+        "Failure Count": 4.0,
+        "Requests/s": 3.79,
+        "Average Response Time": 17926.71,
+        "Average Content Size": 916512.61,
+        "Failure/Request": 1.79
+    },
+    {
+        "Domain name": "lesparisdelaura.fr",
+        "Request Count": 386,
+        "Failure Count": 0.0,
+        "Requests/s": 6.5,
+        "Average Response Time": 10234.73,
+        "Average Content Size": 135109.0
+    },
+    {
+        "Domain name": "lafermedelorette.fr",
+        "Request Count": 1811,
+        "Failure Count": 1811.0,
+        "Requests/s": 30.59,
+        "Average Response Time": 108.12,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "dansleshautesherbes.com",
+        "Request Count": 80,
+        "Failure Count": 32.0,
+        "Requests/s": 1.36,
+        "Average Response Time": 14142.65,
+        "Average Content Size": 64876.2,
+        "Failure/Request": 40.0
+    },
+    {
+        "Domain name": "nicolasrebut.fr",
+        "Request Count": 1228,
+        "Failure Count": 753.0,
+        "Requests/s": 20.72,
+        "Average Response Time": 1492.67,
+        "Average Content Size": 134756.75,
+        "Failure/Request": 61.32
+    },
+    {
+        "Domain name": "domaine-montverrier.com",
+        "Request Count": 40,
+        "Failure Count": 37.0,
+        "Requests/s": 0.69,
+        "Average Response Time": 38859.96,
+        "Average Content Size": 22627.78,
+        "Failure/Request": 92.5
+    },
+    {
+        "Domain name": "lakehouserestaurants.com",
+        "Request Count": 1380,
+        "Failure Count": 1380.0,
+        "Requests/s": 23.33,
+        "Average Response Time": 1018.58,
+        "Average Content Size": 8479.16,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "maisonbenjaminkuentz.com",
+        "Request Count": 1827,
+        "Failure Count": 1827.0,
+        "Requests/s": 30.85,
+        "Average Response Time": 104.69,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "troiscochonsgourmands.ca",
+        "Request Count": 166,
+        "Failure Count": 5.0,
+        "Requests/s": 2.81,
+        "Average Response Time": 20458.47,
+        "Average Content Size": 1233952.67,
+        "Failure/Request": 3.01
+    },
+    {
+        "Domain name": "tencook.es",
+        "Request Count": 1439,
+        "Failure Count": 903.0,
+        "Requests/s": 24.3,
+        "Average Response Time": 894.42,
+        "Average Content Size": 46041.55,
+        "Failure/Request": 62.75
+    },
+    {
+        "Domain name": "thesnippet.fr",
+        "Request Count": 263,
+        "Failure Count": 170.0,
+        "Requests/s": 4.45,
+        "Average Response Time": 14131.25,
+        "Average Content Size": 31456.34,
+        "Failure/Request": 64.64
+    },
+    {
+        "Domain name": "auberge-de-buffard.fr",
+        "Request Count": 393,
+        "Failure Count": 0.0,
+        "Requests/s": 6.63,
+        "Average Response Time": 9927.17,
+        "Average Content Size": 135375.53
+    },
+    {
+        "Domain name": "antheor.fr",
+        "Request Count": 1829,
+        "Failure Count": 10.0,
+        "Requests/s": 30.87,
+        "Average Response Time": 96.45,
+        "Average Content Size": 165169.44,
+        "Failure/Request": 0.55
+    },
+    {
+        "Domain name": "birreco.com",
+        "Request Count": 1681,
+        "Failure Count": 1681.0,
+        "Requests/s": 28.43,
+        "Average Response Time": 382.68,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "cartedelareunion.fr",
+        "Request Count": 1675,
+        "Failure Count": 0.0,
+        "Requests/s": 28.28,
+        "Average Response Time": 377.6,
+        "Average Content Size": 155889.0
+    },
+    {
+        "Domain name": "mayajah.mc",
+        "Request Count": 1728,
+        "Failure Count": 0.0,
+        "Requests/s": 29.22,
+        "Average Response Time": 234.66,
+        "Average Content Size": 154870.0
+    },
+    {
+        "Domain name": "laivo-nuoma.lt",
+        "Request Count": 1717,
+        "Failure Count": 1717.0,
+        "Requests/s": 28.96,
+        "Average Response Time": 285.94,
+        "Average Content Size": 115.55,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "bleuetpersille.ca",
+        "Request Count": 1652,
+        "Failure Count": 1594.0,
+        "Requests/s": 27.89,
+        "Average Response Time": 382.34,
+        "Average Content Size": 6740.81,
+        "Failure/Request": 96.49
+    },
+    {
+        "Domain name": "voyageeninde.org",
+        "Request Count": 159,
+        "Failure Count": 157.0,
+        "Requests/s": 3.05,
+        "Average Response Time": 5238.5,
+        "Average Content Size": 6651.62,
+        "Failure/Request": 98.74
+    },
+    {
+        "Domain name": "camping-europacamp.be",
+        "Request Count": 450,
+        "Failure Count": 4.0,
+        "Requests/s": 7.6,
+        "Average Response Time": 6917.42,
+        "Average Content Size": 122512.24,
+        "Failure/Request": 0.89
+    },
+    {
+        "Domain name": "ecolabel.lu",
+        "Request Count": 28,
+        "Failure Count": 28.0,
+        "Requests/s": 0.6,
+        "Average Response Time": 13051.84,
+        "Average Content Size": 1519.32,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "foodingood.com",
+        "Request Count": 72,
+        "Failure Count": 22.0,
+        "Requests/s": 8.53,
+        "Average Response Time": 1092.22,
+        "Average Content Size": 46178.47,
+        "Failure/Request": 30.56
+    },
+    {
+        "Domain name": "ciegeneralebiscuiterie.fr",
+        "Request Count": 1845,
+        "Failure Count": 1845.0,
+        "Requests/s": 31.14,
+        "Average Response Time": 109.13,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "chezsoi-chezmoi.be",
+        "Request Count": 157,
+        "Failure Count": 20.0,
+        "Requests/s": 2.66,
+        "Average Response Time": 23423.17,
+        "Average Content Size": 48395.9,
+        "Failure/Request": 12.74
+    },
+    {
+        "Domain name": "pittsburghpierogifestival.com",
+        "Request Count": 65,
+        "Failure Count": 5.0,
+        "Requests/s": 1.14,
+        "Average Response Time": 22151.21,
+        "Average Content Size": 19643.08,
+        "Failure/Request": 7.69
+    },
+    {
+        "Domain name": "carnetsdunebretonne.fr",
+        "Request Count": 1458,
+        "Failure Count": 1046.0,
+        "Requests/s": 24.6,
+        "Average Response Time": 844.68,
+        "Average Content Size": 32388.63,
+        "Failure/Request": 71.74
+    },
+    {
+        "Domain name": "antonym-magazine.com",
+        "Request Count": 1543,
+        "Failure Count": 1308.0,
+        "Requests/s": 26.06,
+        "Average Response Time": 662.91,
+        "Average Content Size": 37883.08,
+        "Failure/Request": 84.77
+    },
+    {
+        "Domain name": "laliscia.com",
+        "Request Count": 1769,
+        "Failure Count": 1769.0,
+        "Requests/s": 29.87,
+        "Average Response Time": 203.27,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "fromageriedomainefeodal.com",
+        "Request Count": 1771,
+        "Failure Count": 1771.0,
+        "Requests/s": 29.91,
+        "Average Response Time": 218.53,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "latapani.com",
+        "Request Count": 1773,
+        "Failure Count": 0.0,
+        "Requests/s": 29.97,
+        "Average Response Time": 167.85,
+        "Average Content Size": 85997.0
+    },
+    {
+        "Domain name": "de-tournus.com",
+        "Request Count": 1820,
+        "Failure Count": 0.0,
+        "Requests/s": 30.77,
+        "Average Response Time": 114.43,
+        "Average Content Size": 116911.0
+    },
+    {
+        "Domain name": "baroche.paris",
+        "Request Count": 1821,
+        "Failure Count": 1821.0,
+        "Requests/s": 30.77,
+        "Average Response Time": 122.27,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "astruc-traiteur.com",
+        "Request Count": 1631,
+        "Failure Count": 7.0,
+        "Requests/s": 27.54,
+        "Average Response Time": 394.4,
+        "Average Content Size": 30519.18,
+        "Failure/Request": 0.43
+    },
+    {
+        "Domain name": "pizzadudomaine.fr",
+        "Request Count": 382,
+        "Failure Count": 6.0,
+        "Requests/s": 6.48,
+        "Average Response Time": 10475.5,
+        "Average Content Size": 71548.27,
+        "Failure/Request": 1.57
+    },
+    {
+        "Domain name": "chez-paul.fr",
+        "Request Count": 1644,
+        "Failure Count": 0.0,
+        "Requests/s": 27.75,
+        "Average Response Time": 426.12,
+        "Average Content Size": 138038.0
+    },
+    {
+        "Domain name": "philomenn.fr",
+        "Request Count": 1524,
+        "Failure Count": 1440.0,
+        "Requests/s": 25.76,
+        "Average Response Time": 688.28,
+        "Average Content Size": 5711.67,
+        "Failure/Request": 94.49
+    },
+    {
+        "Domain name": "ornorme.fr",
+        "Request Count": 1773,
+        "Failure Count": 34.0,
+        "Requests/s": 29.92,
+        "Average Response Time": 151.54,
+        "Average Content Size": 75174.23,
+        "Failure/Request": 1.92
+    },
+    {
+        "Domain name": "bibal-boutique.fr",
+        "Request Count": 1690,
+        "Failure Count": 0.0,
+        "Requests/s": 28.57,
+        "Average Response Time": 330.34,
+        "Average Content Size": 258226.03
+    },
+    {
+        "Domain name": "domaine-tambour.com",
+        "Request Count": 1427,
+        "Failure Count": 1350.0,
+        "Requests/s": 24.09,
+        "Average Response Time": 918.49,
+        "Average Content Size": 42173.74,
+        "Failure/Request": 94.6
+    },
+    {
+        "Domain name": "lapetiteokara.fr",
+        "Request Count": 918,
+        "Failure Count": 107.0,
+        "Requests/s": 15.48,
+        "Average Response Time": 2946.17,
+        "Average Content Size": 54593.2,
+        "Failure/Request": 11.66
+    },
+    {
+        "Domain name": "alegriatapasbar.se",
+        "Request Count": 1275,
+        "Failure Count": 1113.0,
+        "Requests/s": 21.53,
+        "Average Response Time": 1371.14,
+        "Average Content Size": 11417.78,
+        "Failure/Request": 87.29
+    },
+    {
+        "Domain name": "vacqueyras-vins.fr",
+        "Request Count": 1771,
+        "Failure Count": 1771.0,
+        "Requests/s": 29.9,
+        "Average Response Time": 184.05,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "zerocarabistouille.be",
+        "Request Count": 86,
+        "Failure Count": 86.0,
+        "Requests/s": 1.59,
+        "Average Response Time": 28075.0,
+        "Average Content Size": 1608.76,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lieu-dit.dk",
+        "Request Count": 349,
+        "Failure Count": 0.0,
+        "Requests/s": 5.9,
+        "Average Response Time": 11350.95,
+        "Average Content Size": 134635.69
+    },
+    {
+        "Domain name": "zabbaan.com",
+        "Request Count": 1177,
+        "Failure Count": 948.0,
+        "Requests/s": 19.91,
+        "Average Response Time": 1684.01,
+        "Average Content Size": 34705.77,
+        "Failure/Request": 80.54
+    },
+    {
+        "Domain name": "levrettecafe.fr",
+        "Request Count": 468,
+        "Failure Count": 0.0,
+        "Requests/s": 7.9,
+        "Average Response Time": 7996.67,
+        "Average Content Size": 49310.0
+    },
+    {
+        "Domain name": "avanaa.ca",
+        "Request Count": 1707,
+        "Failure Count": 0.0,
+        "Requests/s": 28.82,
+        "Average Response Time": 279.29,
+        "Average Content Size": 295399.61
+    },
+    {
+        "Domain name": "parchotel.net",
+        "Request Count": 1778,
+        "Failure Count": 1279.0,
+        "Requests/s": 30.01,
+        "Average Response Time": 204.54,
+        "Average Content Size": 54269.25,
+        "Failure/Request": 71.93
+    },
+    {
+        "Domain name": "lazaretsete.com",
+        "Request Count": 28,
+        "Failure Count": 0.0,
+        "Requests/s": 0.47,
+        "Average Response Time": 41686.46,
+        "Average Content Size": 129483.0
+    },
+    {
+        "Domain name": "restaurant-flaveur.com",
+        "Request Count": 719,
+        "Failure Count": 685.0,
+        "Requests/s": 12.19,
+        "Average Response Time": 3754.86,
+        "Average Content Size": 8027.46,
+        "Failure/Request": 95.27
+    },
+    {
+        "Domain name": "rectorie.com",
+        "Request Count": 100,
+        "Failure Count": 0.0,
+        "Requests/s": 1.69,
+        "Average Response Time": 28052.87,
+        "Average Content Size": 100402.0
+    },
+    {
+        "Domain name": "lesaperosbio.fr",
+        "Request Count": 910,
+        "Failure Count": 61.0,
+        "Requests/s": 15.35,
+        "Average Response Time": 2873.4,
+        "Average Content Size": 627903.61,
+        "Failure/Request": 6.7
+    },
+    {
+        "Domain name": "peoplelikeus.dk",
+        "Request Count": 1733,
+        "Failure Count": 0.0,
+        "Requests/s": 29.25,
+        "Average Response Time": 261.1,
+        "Average Content Size": 101448.0
+    },
+    {
+        "Domain name": "hcnv.fr",
+        "Request Count": 31,
+        "Failure Count": 0.0,
+        "Requests/s": 0.52,
+        "Average Response Time": 49268.09,
+        "Average Content Size": 608055.0
+    },
+    {
+        "Domain name": "arachides-depot.ca",
+        "Request Count": 121,
+        "Failure Count": 29.0,
+        "Requests/s": 2.03,
+        "Average Response Time": 27986.79,
+        "Average Content Size": 41400.49,
+        "Failure/Request": 23.97
+    },
+    {
+        "Domain name": "lucileinwonderland.fr",
+        "Request Count": 105,
+        "Failure Count": 19.0,
+        "Requests/s": 1.85,
+        "Average Response Time": 35534.84,
+        "Average Content Size": 99558.81,
+        "Failure/Request": 18.1
+    },
+    {
+        "Domain name": "aupalaissucre.ca",
+        "Request Count": 402,
+        "Failure Count": 0.0,
+        "Requests/s": 6.82,
+        "Average Response Time": 9700.14,
+        "Average Content Size": 120364.0
+    },
+    {
+        "Domain name": "valkoinenpuu.fi",
+        "Request Count": 1748,
+        "Failure Count": 0.0,
+        "Requests/s": 29.47,
+        "Average Response Time": 240.86,
+        "Average Content Size": 140673.0
+    },
+    {
+        "Domain name": "bowlingbresseloisirs.fr",
+        "Request Count": 1443,
+        "Failure Count": 1390.0,
+        "Requests/s": 24.32,
+        "Average Response Time": 887.05,
+        "Average Content Size": 4281.5,
+        "Failure/Request": 96.33
+    },
+    {
+        "Domain name": "vinibee.com",
+        "Request Count": 1767,
+        "Failure Count": 1767.0,
+        "Requests/s": 29.9,
+        "Average Response Time": 195.2,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "chateauderaousset.com",
+        "Request Count": 1668,
+        "Failure Count": 663.0,
+        "Requests/s": 28.15,
+        "Average Response Time": 382.3,
+        "Average Content Size": 602397.29,
+        "Failure/Request": 39.75
+    },
+    {
+        "Domain name": "boutiques-et-magasins.fr",
+        "Request Count": 1784,
+        "Failure Count": 1784.0,
+        "Requests/s": 30.08,
+        "Average Response Time": 107.95,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "hotel-tivoli.eu",
+        "Request Count": 591,
+        "Failure Count": 591.0,
+        "Requests/s": 9.97,
+        "Average Response Time": 4063.42,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "ibrik.fr",
+        "Request Count": 1718,
+        "Failure Count": 0.0,
+        "Requests/s": 29.01,
+        "Average Response Time": 253.15,
+        "Average Content Size": 107714.0
+    },
+    {
+        "Domain name": "bach-strasbourg.com",
+        "Request Count": 1701,
+        "Failure Count": 1701.0,
+        "Requests/s": 28.7,
+        "Average Response Time": 293.28,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "journal-bacalan.fr",
+        "Request Count": 72,
+        "Failure Count": 25.0,
+        "Requests/s": 1.22,
+        "Average Response Time": 33026.84,
+        "Average Content Size": 80229.1,
+        "Failure/Request": 34.72
+    },
+    {
+        "Domain name": "lecrinduvin.fr",
+        "Request Count": 1693,
+        "Failure Count": 0.0,
+        "Requests/s": 28.54,
+        "Average Response Time": 342.08,
+        "Average Content Size": 122795.0
+    },
+    {
+        "Domain name": "lacave-vevey-montreux.ch",
+        "Request Count": 665,
+        "Failure Count": 665.0,
+        "Requests/s": 11.22,
+        "Average Response Time": 3760.72,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "aumazetdegrandmeme.fr",
+        "Request Count": 73,
+        "Failure Count": 73.0,
+        "Requests/s": 1.23,
+        "Average Response Time": 9269.92,
+        "Average Content Size": 20.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "vinogvelsmag.dk",
+        "Request Count": 1323,
+        "Failure Count": 0.0,
+        "Requests/s": 22.33,
+        "Average Response Time": 1229.78,
+        "Average Content Size": 344146.0
+    },
+    {
+        "Domain name": "galzin.fr",
+        "Request Count": 763,
+        "Failure Count": 759.0,
+        "Requests/s": 12.89,
+        "Average Response Time": 3729.66,
+        "Average Content Size": 3614.66,
+        "Failure/Request": 99.48
+    },
+    {
+        "Domain name": "le-salonais.fr",
+        "Request Count": 1402,
+        "Failure Count": 1354.0,
+        "Requests/s": 23.67,
+        "Average Response Time": 1050.08,
+        "Average Content Size": 10220.85,
+        "Failure/Request": 96.58
+    },
+    {
+        "Domain name": "cavedebacchus.be",
+        "Request Count": 0,
+        "Failure Count": 0.0,
+        "Requests/s": 0.0,
+        "Average Response Time": 0.0,
+        "Average Content Size": 0.0
+    },
+    {
+        "Domain name": "champagnemorel.com",
+        "Request Count": 1272,
+        "Failure Count": 1151.0,
+        "Requests/s": 21.4,
+        "Average Response Time": 1446.78,
+        "Average Content Size": 17817.01,
+        "Failure/Request": 90.49
+    },
+    {
+        "Domain name": "lacachedugolf.com",
+        "Request Count": 1593,
+        "Failure Count": 70.0,
+        "Requests/s": 26.91,
+        "Average Response Time": 505.28,
+        "Average Content Size": 185364.3,
+        "Failure/Request": 4.39
+    },
+    {
+        "Domain name": "materrassesanstabac.com",
+        "Request Count": 1555,
+        "Failure Count": 134.0,
+        "Requests/s": 26.27,
+        "Average Response Time": 633.64,
+        "Average Content Size": 172323.89,
+        "Failure/Request": 8.62
+    },
+    {
+        "Domain name": "mexyco.be",
+        "Request Count": 1768,
+        "Failure Count": 82.0,
+        "Requests/s": 29.84,
+        "Average Response Time": 160.91,
+        "Average Content Size": 107824.85,
+        "Failure/Request": 4.64
+    },
+    {
+        "Domain name": "lachapelle.lu",
+        "Request Count": 1247,
+        "Failure Count": 1082.0,
+        "Requests/s": 21.08,
+        "Average Response Time": 1493.37,
+        "Average Content Size": 21083.97,
+        "Failure/Request": 86.77
+    },
+    {
+        "Domain name": "sekou.org",
+        "Request Count": 120,
+        "Failure Count": 120.0,
+        "Requests/s": 2.03,
+        "Average Response Time": 23239.16,
+        "Average Content Size": 315.36,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "groixhaliotis.com",
+        "Request Count": 1518,
+        "Failure Count": 1269.0,
+        "Requests/s": 25.62,
+        "Average Response Time": 677.11,
+        "Average Content Size": 13814.44,
+        "Failure/Request": 83.6
+    },
+    {
+        "Domain name": "gustiitaliani.com",
+        "Request Count": 314,
+        "Failure Count": 11.0,
+        "Requests/s": 5.34,
+        "Average Response Time": 13275.05,
+        "Average Content Size": 205106.14,
+        "Failure/Request": 3.5
+    },
+    {
+        "Domain name": "hexagonrestaurant.com",
+        "Request Count": 299,
+        "Failure Count": 299.0,
+        "Requests/s": 6.02,
+        "Average Response Time": 12443.22,
+        "Average Content Size": 226.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "sushi-sakura.ch",
+        "Request Count": 1799,
+        "Failure Count": 1.0,
+        "Requests/s": 30.45,
+        "Average Response Time": 139.61,
+        "Average Content Size": 52759.66,
+        "Failure/Request": 0.06
+    },
+    {
+        "Domain name": "sushizen.shop",
+        "Request Count": 1646,
+        "Failure Count": 59.0,
+        "Requests/s": 28.03,
+        "Average Response Time": 355.14,
+        "Average Content Size": 88731.23,
+        "Failure/Request": 3.58
+    },
+    {
+        "Domain name": "benoitcastel.com",
+        "Request Count": 1772,
+        "Failure Count": 0.0,
+        "Requests/s": 29.98,
+        "Average Response Time": 214.82,
+        "Average Content Size": 148559.0
+    },
+    {
+        "Domain name": "ricochets.net",
+        "Request Count": 398,
+        "Failure Count": 0.0,
+        "Requests/s": 6.74,
+        "Average Response Time": 9454.76,
+        "Average Content Size": 57260.0
+    },
+    {
+        "Domain name": "mendi.fr",
+        "Request Count": 1854,
+        "Failure Count": 1854.0,
+        "Requests/s": 31.31,
+        "Average Response Time": 107.7,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "restaurant-biarritz-leonie.com",
+        "Request Count": 1392,
+        "Failure Count": 983.0,
+        "Requests/s": 23.51,
+        "Average Response Time": 965.84,
+        "Average Content Size": 41412.52,
+        "Failure/Request": 70.62
+    },
+    {
+        "Domain name": "chefextra.com",
+        "Request Count": 1723,
+        "Failure Count": 1723.0,
+        "Requests/s": 29.12,
+        "Average Response Time": 246.43,
+        "Average Content Size": 1084.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "floating-nantes.com",
+        "Request Count": 1412,
+        "Failure Count": 1296.0,
+        "Requests/s": 23.82,
+        "Average Response Time": 915.12,
+        "Average Content Size": 16919.82,
+        "Failure/Request": 91.78
+    },
+    {
+        "Domain name": "chateau-genestiere.com",
+        "Request Count": 370,
+        "Failure Count": 0.0,
+        "Requests/s": 6.25,
+        "Average Response Time": 10579.08,
+        "Average Content Size": 52676.0
+    },
+    {
+        "Domain name": "ackermannartisan.swiss",
+        "Request Count": 1185,
+        "Failure Count": 901.0,
+        "Requests/s": 20.02,
+        "Average Response Time": 1698.77,
+        "Average Content Size": 12692.75,
+        "Failure/Request": 76.03
+    },
+    {
+        "Domain name": "artishowcabaret.com",
+        "Request Count": 1215,
+        "Failure Count": 1063.0,
+        "Requests/s": 20.51,
+        "Average Response Time": 1541.36,
+        "Average Content Size": 80039.62,
+        "Failure/Request": 87.49
+    },
+    {
+        "Domain name": "patriovin.dk",
+        "Request Count": 1798,
+        "Failure Count": 1798.0,
+        "Requests/s": 30.36,
+        "Average Response Time": 135.26,
+        "Average Content Size": 876.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "sweetflamingo.fr",
+        "Request Count": 323,
+        "Failure Count": 2.0,
+        "Requests/s": 5.45,
+        "Average Response Time": 12221.29,
+        "Average Content Size": 191004.94,
+        "Failure/Request": 0.62
+    },
+    {
+        "Domain name": "domaine-parazols.com",
+        "Request Count": 1349,
+        "Failure Count": 1295.0,
+        "Requests/s": 22.78,
+        "Average Response Time": 1183.79,
+        "Average Content Size": 9617.95,
+        "Failure/Request": 96.0
+    },
+    {
+        "Domain name": "postkutsch.lu",
+        "Request Count": 305,
+        "Failure Count": 305.0,
+        "Requests/s": 5.15,
+        "Average Response Time": 12285.21,
+        "Average Content Size": 2267.47,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "villas-vacances-bretagne.com",
+        "Request Count": 114,
+        "Failure Count": 0.0,
+        "Requests/s": 1.94,
+        "Average Response Time": 28878.66,
+        "Average Content Size": 123408.0
+    },
+    {
+        "Domain name": "fabiencastaing.com",
+        "Request Count": 1549,
+        "Failure Count": 1305.0,
+        "Requests/s": 26.15,
+        "Average Response Time": 591.7,
+        "Average Content Size": 41123.27,
+        "Failure/Request": 84.25
+    },
+    {
+        "Domain name": "visiterdubai.fr",
+        "Request Count": 1685,
+        "Failure Count": 2.0,
+        "Requests/s": 28.47,
+        "Average Response Time": 348.13,
+        "Average Content Size": 202019.93,
+        "Failure/Request": 0.12
+    },
+    {
+        "Domain name": "bustoque.fr",
+        "Request Count": 272,
+        "Failure Count": 3.0,
+        "Requests/s": 4.6,
+        "Average Response Time": 13974.07,
+        "Average Content Size": 68104.47,
+        "Failure/Request": 1.1
+    },
+    {
+        "Domain name": "maisonmoianan.com",
+        "Request Count": 1750,
+        "Failure Count": 1750.0,
+        "Requests/s": 29.58,
+        "Average Response Time": 219.21,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "hubert-prive.com",
+        "Request Count": 1763,
+        "Failure Count": 1763.0,
+        "Requests/s": 29.86,
+        "Average Response Time": 128.65,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "ericroymaraicher.fr",
+        "Request Count": 1411,
+        "Failure Count": 1117.0,
+        "Requests/s": 23.8,
+        "Average Response Time": 908.78,
+        "Average Content Size": 47820.01,
+        "Failure/Request": 79.16
+    },
+    {
+        "Domain name": "hautsdemontrouge.com",
+        "Request Count": 1098,
+        "Failure Count": 1092.0,
+        "Requests/s": 18.55,
+        "Average Response Time": 2109.5,
+        "Average Content Size": 10240.11,
+        "Failure/Request": 99.45
+    },
+    {
+        "Domain name": "lebatia.fr",
+        "Request Count": 445,
+        "Failure Count": 21.0,
+        "Requests/s": 7.51,
+        "Average Response Time": 7219.24,
+        "Average Content Size": 92304.32,
+        "Failure/Request": 4.72
+    },
+    {
+        "Domain name": "breton-manoirdedurcet.fr",
+        "Request Count": 39,
+        "Failure Count": 0.0,
+        "Requests/s": 0.69,
+        "Average Response Time": 39333.1,
+        "Average Content Size": 365563.0
+    },
+    {
+        "Domain name": "union-girondine.com",
+        "Request Count": 1138,
+        "Failure Count": 1095.0,
+        "Requests/s": 19.18,
+        "Average Response Time": 1644.4,
+        "Average Content Size": 8100.58,
+        "Failure/Request": 96.22
+    },
+    {
+        "Domain name": "movementfrance.com",
+        "Request Count": 460,
+        "Failure Count": 77.0,
+        "Requests/s": 7.83,
+        "Average Response Time": 7608.72,
+        "Average Content Size": 65626.24,
+        "Failure/Request": 16.74
+    },
+    {
+        "Domain name": "lafinebulle.fr",
+        "Request Count": 942,
+        "Failure Count": 922.0,
+        "Requests/s": 15.93,
+        "Average Response Time": 2879.85,
+        "Average Content Size": 6948.29,
+        "Failure/Request": 97.88
+    },
+    {
+        "Domain name": "lanoisettedoc.com",
+        "Request Count": 1800,
+        "Failure Count": 1800.0,
+        "Requests/s": 30.41,
+        "Average Response Time": 163.33,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "huitres-de-mesquer-penbe.bzh",
+        "Request Count": 1776,
+        "Failure Count": 1776.0,
+        "Requests/s": 30.02,
+        "Average Response Time": 170.48,
+        "Average Content Size": 4568.66,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "villagemagazine.fr",
+        "Request Count": 1147,
+        "Failure Count": 801.0,
+        "Requests/s": 19.38,
+        "Average Response Time": 1722.99,
+        "Average Content Size": 60260.38,
+        "Failure/Request": 69.83
+    },
+    {
+        "Domain name": "laspirulinedejulie.com",
+        "Request Count": 1201,
+        "Failure Count": 569.0,
+        "Requests/s": 20.31,
+        "Average Response Time": 1615.23,
+        "Average Content Size": 44726.23,
+        "Failure/Request": 47.38
+    },
+    {
+        "Domain name": "rierecadene.com",
+        "Request Count": 137,
+        "Failure Count": 0.0,
+        "Requests/s": 2.32,
+        "Average Response Time": 24686.05,
+        "Average Content Size": 248121.0
+    },
+    {
+        "Domain name": "charcuterie-casamayou.fr",
+        "Request Count": 1159,
+        "Failure Count": 927.0,
+        "Requests/s": 19.63,
+        "Average Response Time": 1658.23,
+        "Average Content Size": 47052.29,
+        "Failure/Request": 79.98
+    },
+    {
+        "Domain name": "domaine-collet.fr",
+        "Request Count": 352,
+        "Failure Count": 0.0,
+        "Requests/s": 5.98,
+        "Average Response Time": 11252.15,
+        "Average Content Size": 258943.67
+    },
+    {
+        "Domain name": "cigarette-electronique-shop.ch",
+        "Request Count": 1706,
+        "Failure Count": 0.0,
+        "Requests/s": 28.82,
+        "Average Response Time": 323.42,
+        "Average Content Size": 604378.0
+    },
+    {
+        "Domain name": "ouquoicomment.ch",
+        "Request Count": 1747,
+        "Failure Count": 0.0,
+        "Requests/s": 29.55,
+        "Average Response Time": 230.82,
+        "Average Content Size": 131733.0
+    },
+    {
+        "Domain name": "ouzbekistan-roads.fr",
+        "Request Count": 1405,
+        "Failure Count": 1212.0,
+        "Requests/s": 23.73,
+        "Average Response Time": 985.68,
+        "Average Content Size": 21405.59,
+        "Failure/Request": 86.26
+    },
+    {
+        "Domain name": "dunesblanches.fr",
+        "Request Count": 1783,
+        "Failure Count": 0.0,
+        "Requests/s": 30.18,
+        "Average Response Time": 145.71,
+        "Average Content Size": 58410.0
+    },
+    {
+        "Domain name": "lacremaillere-taninges.fr",
+        "Request Count": 1453,
+        "Failure Count": 830.0,
+        "Requests/s": 24.54,
+        "Average Response Time": 847.63,
+        "Average Content Size": 25825.39,
+        "Failure/Request": 57.12
+    },
+    {
+        "Domain name": "leschaisduportdelalune.com",
+        "Request Count": 185,
+        "Failure Count": 169.0,
+        "Requests/s": 3.13,
+        "Average Response Time": 20218.47,
+        "Average Content Size": 12504.64,
+        "Failure/Request": 91.35
+    },
+    {
+        "Domain name": "valezan.fr",
+        "Request Count": 1771,
+        "Failure Count": 1771.0,
+        "Requests/s": 29.94,
+        "Average Response Time": 171.2,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "groupepicard.ca",
+        "Request Count": 1585,
+        "Failure Count": 1585.0,
+        "Requests/s": 26.82,
+        "Average Response Time": 587.77,
+        "Average Content Size": 15344.22,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "boires.ca",
+        "Request Count": 184,
+        "Failure Count": 3.0,
+        "Requests/s": 3.11,
+        "Average Response Time": 23180.18,
+        "Average Content Size": 75428.58,
+        "Failure/Request": 1.63
+    },
+    {
+        "Domain name": "ochre.fr",
+        "Request Count": 1727,
+        "Failure Count": 0.0,
+        "Requests/s": 29.23,
+        "Average Response Time": 244.85,
+        "Average Content Size": 257263.0
+    },
+    {
+        "Domain name": "brasserielesbeauxarts.fr",
+        "Request Count": 71,
+        "Failure Count": 0.0,
+        "Requests/s": 1.22,
+        "Average Response Time": 29048.34,
+        "Average Content Size": 132126.8
+    },
+    {
+        "Domain name": "ks-media-management.ch",
+        "Request Count": 1742,
+        "Failure Count": 1742.0,
+        "Requests/s": 29.45,
+        "Average Response Time": 211.31,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "joran.bzh",
+        "Request Count": 573,
+        "Failure Count": 0.0,
+        "Requests/s": 9.73,
+        "Average Response Time": 5920.85,
+        "Average Content Size": 84192.0
+    },
+    {
+        "Domain name": "thatslife-restaurant.fr",
+        "Request Count": 1743,
+        "Failure Count": 1627.0,
+        "Requests/s": 29.44,
+        "Average Response Time": 224.6,
+        "Average Content Size": 6799.85,
+        "Failure/Request": 93.34
+    },
+    {
+        "Domain name": "smakufestivals.com",
+        "Request Count": 491,
+        "Failure Count": 0.0,
+        "Requests/s": 8.29,
+        "Average Response Time": 7742.45,
+        "Average Content Size": 108692.0
+    },
+    {
+        "Domain name": "traiteurlaterrine.fr",
+        "Request Count": 1809,
+        "Failure Count": 1809.0,
+        "Requests/s": 30.57,
+        "Average Response Time": 108.23,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "en10saveurs.com",
+        "Request Count": 1478,
+        "Failure Count": 801.0,
+        "Requests/s": 24.93,
+        "Average Response Time": 780.02,
+        "Average Content Size": 270042.64,
+        "Failure/Request": 54.19
+    },
+    {
+        "Domain name": "sporting-eat.fr",
+        "Request Count": 110,
+        "Failure Count": 0.0,
+        "Requests/s": 1.86,
+        "Average Response Time": 36288.58,
+        "Average Content Size": 101500.0
+    },
+    {
+        "Domain name": "ovenheaven.fr",
+        "Request Count": 569,
+        "Failure Count": 569.0,
+        "Requests/s": 10.0,
+        "Average Response Time": 3853.88,
+        "Average Content Size": 2253.88,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "champagnemarionbosser.fr",
+        "Request Count": 258,
+        "Failure Count": 0.0,
+        "Requests/s": 4.39,
+        "Average Response Time": 15316.98,
+        "Average Content Size": 59247.0
+    },
+    {
+        "Domain name": "lemonasteredesaintmont.com",
+        "Request Count": 1657,
+        "Failure Count": 652.0,
+        "Requests/s": 27.95,
+        "Average Response Time": 386.59,
+        "Average Content Size": 508937.31,
+        "Failure/Request": 39.35
+    },
+    {
+        "Domain name": "vegecantines.fr",
+        "Request Count": 224,
+        "Failure Count": 0.0,
+        "Requests/s": 3.78,
+        "Average Response Time": 18002.53,
+        "Average Content Size": 63233.0
+    },
+    {
+        "Domain name": "chezbobbi.be",
+        "Request Count": 1249,
+        "Failure Count": 1238.0,
+        "Requests/s": 21.11,
+        "Average Response Time": 1328.15,
+        "Average Content Size": 523.83,
+        "Failure/Request": 99.12
+    },
+    {
+        "Domain name": "mycasatequila.com",
+        "Request Count": 1422,
+        "Failure Count": 1101.0,
+        "Requests/s": 24.03,
+        "Average Response Time": 919.99,
+        "Average Content Size": 39616.24,
+        "Failure/Request": 77.43
+    },
+    {
+        "Domain name": "restaurantdesbergers.fr",
+        "Request Count": 1172,
+        "Failure Count": 536.0,
+        "Requests/s": 19.84,
+        "Average Response Time": 1622.9,
+        "Average Content Size": 100853.89,
+        "Failure/Request": 45.73
+    },
+    {
+        "Domain name": "yard-restaurant.com",
+        "Request Count": 1764,
+        "Failure Count": 1764.0,
+        "Requests/s": 29.81,
+        "Average Response Time": 165.26,
+        "Average Content Size": 0.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "latelierdeslys.fr",
+        "Request Count": 196,
+        "Failure Count": 0.0,
+        "Requests/s": 3.35,
+        "Average Response Time": 18456.41,
+        "Average Content Size": 137052.0
+    },
+    {
+        "Domain name": "liber-art.fr",
+        "Request Count": 1726,
+        "Failure Count": 0.0,
+        "Requests/s": 29.15,
+        "Average Response Time": 219.79,
+        "Average Content Size": 34387.0
+    },
+    {
+        "Domain name": "labarbade.fr",
+        "Request Count": 1809,
+        "Failure Count": 1.0,
+        "Requests/s": 30.62,
+        "Average Response Time": 126.57,
+        "Average Content Size": 109176.61,
+        "Failure/Request": 0.06
+    },
+    {
+        "Domain name": "sinnae.fr",
+        "Request Count": 1813,
+        "Failure Count": 1813.0,
+        "Requests/s": 30.62,
+        "Average Response Time": 94.0,
+        "Average Content Size": 146.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "far.bzh",
+        "Request Count": 1806,
+        "Failure Count": 0.0,
+        "Requests/s": 30.5,
+        "Average Response Time": 128.2,
+        "Average Content Size": 54689.0
+    },
+    {
+        "Domain name": "ethicdrinks.fr",
+        "Request Count": 1679,
+        "Failure Count": 0.0,
+        "Requests/s": 28.57,
+        "Average Response Time": 325.74,
+        "Average Content Size": 242509.0
+    },
+    {
+        "Domain name": "comptoirprimeur.fr",
+        "Request Count": 1408,
+        "Failure Count": 995.0,
+        "Requests/s": 23.82,
+        "Average Response Time": 971.0,
+        "Average Content Size": 11279.76,
+        "Failure/Request": 70.67
+    },
+    {
+        "Domain name": "villadesarts.fr",
+        "Request Count": 1756,
+        "Failure Count": 1257.0,
+        "Requests/s": 29.65,
+        "Average Response Time": 235.87,
+        "Average Content Size": 4991.08,
+        "Failure/Request": 71.58
+    },
+    {
+        "Domain name": "kassiafood.fr",
+        "Request Count": 1805,
+        "Failure Count": 0.0,
+        "Requests/s": 30.5,
+        "Average Response Time": 127.9,
+        "Average Content Size": 165225.0
+    },
+    {
+        "Domain name": "montiboutey.com",
+        "Request Count": 129,
+        "Failure Count": 60.0,
+        "Requests/s": 2.19,
+        "Average Response Time": 2275.9,
+        "Average Content Size": 130917.6,
+        "Failure/Request": 46.51
+    },
+    {
+        "Domain name": "marius-pornic.fr",
+        "Request Count": 1193,
+        "Failure Count": 1193.0,
+        "Requests/s": 20.4,
+        "Average Response Time": 851.64,
+        "Average Content Size": 960.62,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "lagare-paris.com",
+        "Request Count": 342,
+        "Failure Count": 0.0,
+        "Requests/s": 5.81,
+        "Average Response Time": 11359.47,
+        "Average Content Size": 32421.0
+    },
+    {
+        "Domain name": "mimipatisserie.com",
+        "Request Count": 1135,
+        "Failure Count": 1027.0,
+        "Requests/s": 19.19,
+        "Average Response Time": 1814.1,
+        "Average Content Size": 11840.45,
+        "Failure/Request": 90.48
+    },
+    {
+        "Domain name": "domainedecombet.com",
+        "Request Count": 52,
+        "Failure Count": 0.0,
+        "Requests/s": 0.92,
+        "Average Response Time": 35725.11,
+        "Average Content Size": 175612.54
+    },
+    {
+        "Domain name": "maisonaribert.com",
+        "Request Count": 250,
+        "Failure Count": 0.0,
+        "Requests/s": 4.27,
+        "Average Response Time": 14892.81,
+        "Average Content Size": 74248.0
+    },
+    {
+        "Domain name": "mare-gustu.com",
+        "Request Count": 78,
+        "Failure Count": 75.0,
+        "Requests/s": 1.32,
+        "Average Response Time": 29037.67,
+        "Average Content Size": 2226.22,
+        "Failure/Request": 96.15
+    },
+    {
+        "Domain name": "bralirwa.co.rw",
+        "Request Count": 1677,
+        "Failure Count": 1677.0,
+        "Requests/s": 28.35,
+        "Average Response Time": 335.97,
+        "Average Content Size": 226.0,
+        "Failure/Request": 100.0
+    },
+    {
+        "Domain name": "whiskytwelve.fr",
+        "Request Count": 1165,
+        "Failure Count": 874.0,
+        "Requests/s": 19.71,
+        "Average Response Time": 1680.45,
+        "Average Content Size": 18229.41,
+        "Failure/Request": 75.02
+    },
+    {
+        "Domain name": "sportleysin.ch",
+        "Request Count": 1656,
+        "Failure Count": 2.0,
+        "Requests/s": 27.97,
+        "Average Response Time": 417.17,
+        "Average Content Size": 677196.34,
+        "Failure/Request": 0.12
+    },
+    {
+        "Domain name": "caveguillod.ch",
+        "Request Count": 1144,
+        "Failure Count": 989.0,
+        "Requests/s": 19.35,
+        "Average Response Time": 1685.0,
+        "Average Content Size": 53586.71,
+        "Failure/Request": 86.45
+    },
+    {
+        "Domain name": "atmosphere-restaurant.fr",
+        "Request Count": 226,
+        "Failure Count": 139.0,
+        "Requests/s": 3.81,
+        "Average Response Time": 16243.6,
+        "Average Content Size": 42718.71,
+        "Failure/Request": 61.5
+    }
+]
